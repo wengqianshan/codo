@@ -1,0 +1,1147 @@
+2014-08-07 17:34:04.399 Codo[1400:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:34:04.409 Codo[1400:70b] Unlimited access to network resources
+2014-08-07 17:34:04.412 Codo[1400:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:34:04.441 Codo[1400:70b] [CDVTimer][file] 2.275050ms
+2014-08-07 17:34:04.441 Codo[1400:70b] [CDVTimer][TotalPluginStartup] 2.864003ms
+2014-08-07 17:34:04.620 Codo[1400:70b] Resetting plugins due to page load.
+2014-08-07 17:34:04.696 Codo[1400:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:34:04.946 Codo[1400:7c07] File Transfer Finished with response code 200
+2014-08-07 17:34:04.956 Codo[1400:7103] File Transfer Finished with response code 200
+2014-08-07 17:34:04.958 Codo[1400:770f] File Transfer Finished with response code 200
+2014-08-07 17:34:04.959 Codo[1400:7103] File Transfer Finished with response code 200
+2014-08-07 17:34:04.958 Codo[1400:4617] File Transfer Finished with response code 200
+2014-08-07 17:34:04.960 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.963 Codo[1400:7103] File Transfer Finished with response code 200
+2014-08-07 17:34:04.964 Codo[1400:4617] File Transfer Finished with response code 200
+2014-08-07 17:34:04.964 Codo[1400:7103] File Transfer Finished with response code 200
+2014-08-07 17:34:04.965 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.968 Codo[1400:7c07] File Transfer Finished with response code 200
+2014-08-07 17:34:04.968 Codo[1400:2c07] File Transfer Finished with response code 200
+2014-08-07 17:34:04.969 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.969 Codo[1400:770f] File Transfer Finished with response code 200
+2014-08-07 17:34:04.971 Codo[1400:9c03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.973 Codo[1400:770f] File Transfer Finished with response code 200
+2014-08-07 17:34:04.973 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.979 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.983 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.987 Codo[1400:770f] File Transfer Finished with response code 200
+2014-08-07 17:34:04.989 Codo[1400:8903] File Transfer Finished with response code 200
+2014-08-07 17:34:04.990 Codo[1400:8903] File Transfer Finished with response code 200
+2014-08-07 17:34:04.990 Codo[1400:7303] File Transfer Finished with response code 200
+2014-08-07 17:34:04.991 Codo[1400:770f] File Transfer Finished with response code 200
+2014-08-07 17:34:04.994 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.994 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.995 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.997 Codo[1400:9c03] File Transfer Finished with response code 200
+2014-08-07 17:34:04.999 Codo[1400:7303] File Transfer Finished with response code 200
+2014-08-07 17:34:05.001 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.011 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.013 Codo[1400:9c03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.013 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.017 Codo[1400:4617] File Transfer Finished with response code 200
+2014-08-07 17:34:05.021 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.021 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.023 Codo[1400:7e03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.030 Codo[1400:4617] File Transfer Finished with response code 200
+2014-08-07 17:34:05.031 Codo[1400:7c07] File Transfer Finished with response code 200
+2014-08-07 17:34:05.031 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.031 Codo[1400:9c03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.035 Codo[1400:8903] File Transfer Finished with response code 200
+2014-08-07 17:34:05.038 Codo[1400:7c07] File Transfer Finished with response code 200
+2014-08-07 17:34:05.039 Codo[1400:2c07] File Transfer Finished with response code 200
+2014-08-07 17:34:05.045 Codo[1400:2c07] File Transfer Finished with response code 200
+2014-08-07 17:34:05.049 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.063 Codo[1400:aa03] File Transfer Finished with response code 200
+2014-08-07 17:34:05.066 Codo[1400:2c07] File Transfer Finished with response code 200
+2014-08-07 17:34:05.067 Codo[1400:4617] File Transfer Finished with response code 200
+2014-08-07 17:34:05.070 Codo[1400:7c07] File Transfer Finished with response code 200
+2014-08-07 17:34:05.095 Codo[1400:70b] Resetting plugins due to page load.
+2014-08-07 17:34:05.130 Codo[1400:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Documents/www/app.laiwanba/list.html
+2014-08-07 17:40:40.279 Codo[1556:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:40:40.295 Codo[1556:70b] Unlimited access to network resources
+2014-08-07 17:40:40.299 Codo[1556:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:40:40.322 Codo[1556:70b] [CDVTimer][file] 2.158999ms
+2014-08-07 17:40:40.323 Codo[1556:70b] [CDVTimer][TotalPluginStartup] 2.792954ms
+2014-08-07 17:40:40.457 Codo[1556:70b] Resetting plugins due to page load.
+2014-08-07 17:40:40.506 Codo[1556:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:40:40.715 Codo[1556:a703] File Transfer Finished with response code 200
+2014-08-07 17:40:40.715 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.729 Codo[1556:a103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.729 Codo[1556:a503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.729 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.734 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.735 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.736 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.736 Codo[1556:a703] File Transfer Finished with response code 200
+2014-08-07 17:40:40.736 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.740 Codo[1556:a503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.741 Codo[1556:b107] File Transfer Finished with response code 200
+2014-08-07 17:40:40.741 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.741 Codo[1556:a503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.743 Codo[1556:9203] File Transfer Finished with response code 200
+2014-08-07 17:40:40.745 Codo[1556:a703] File Transfer Finished with response code 200
+2014-08-07 17:40:40.749 Codo[1556:a103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.752 Codo[1556:b107] File Transfer Finished with response code 200
+2014-08-07 17:40:40.752 Codo[1556:460b] File Transfer Finished with response code 200
+2014-08-07 17:40:40.753 Codo[1556:460b] File Transfer Finished with response code 200
+2014-08-07 17:40:40.754 Codo[1556:7103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.755 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.760 Codo[1556:a703] File Transfer Finished with response code 200
+2014-08-07 17:40:40.762 Codo[1556:a703] File Transfer Finished with response code 200
+2014-08-07 17:40:40.763 Codo[1556:7103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.765 Codo[1556:b107] File Transfer Finished with response code 200
+2014-08-07 17:40:40.766 Codo[1556:b107] File Transfer Finished with response code 200
+2014-08-07 17:40:40.768 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.768 Codo[1556:a103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.773 Codo[1556:7103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.773 Codo[1556:460b] File Transfer Finished with response code 200
+2014-08-07 17:40:40.774 Codo[1556:7103] File Transfer Finished with response code 200
+2014-08-07 17:40:40.775 Codo[1556:8503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.775 Codo[1556:8503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.780 Codo[1556:460b] File Transfer Finished with response code 200
+2014-08-07 17:40:40.780 Codo[1556:a703] File Transfer Finished with response code 200
+2014-08-07 17:40:40.780 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.780 Codo[1556:8503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.780 Codo[1556:a503] File Transfer Finished with response code 200
+2014-08-07 17:40:40.784 Codo[1556:760b] File Transfer Finished with response code 200
+2014-08-07 17:40:40.787 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.787 Codo[1556:b107] File Transfer Finished with response code 200
+2014-08-07 17:40:40.786 Codo[1556:460b] File Transfer Finished with response code 200
+2014-08-07 17:40:40.784 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.797 Codo[1556:1203] File Transfer Finished with response code 200
+2014-08-07 17:40:40.796 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.801 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.809 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.812 Codo[1556:8403] File Transfer Finished with response code 200
+2014-08-07 17:40:40.816 Codo[1556:a603] File Transfer Finished with response code 200
+2014-08-07 17:40:40.843 Codo[1556:70b] Resetting plugins due to page load.
+2014-08-07 17:40:40.912 Codo[1556:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Documents/www/app.laiwanba/list.html
+2014-08-07 17:41:12.027 Codo[1693:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:41:12.037 Codo[1693:70b] Unlimited access to network resources
+2014-08-07 17:41:12.041 Codo[1693:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:41:12.064 Codo[1693:70b] [CDVTimer][file] 2.267957ms
+2014-08-07 17:41:12.064 Codo[1693:70b] [CDVTimer][TotalPluginStartup] 2.900004ms
+2014-08-07 17:41:12.197 Codo[1693:70b] Resetting plugins due to page load.
+2014-08-07 17:41:12.247 Codo[1693:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:41:12.454 Codo[1693:c103] File Transfer Finished with response code 200
+2014-08-07 17:41:12.467 Codo[1693:c103] File Transfer Finished with response code 200
+2014-08-07 17:41:12.467 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.468 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.469 Codo[1693:8d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.469 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.471 Codo[1693:1203] File Transfer Finished with response code 200
+2014-08-07 17:41:12.473 Codo[1693:db03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.474 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.475 Codo[1693:8a03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.477 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.478 Codo[1693:8a03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.480 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.480 Codo[1693:8a03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.484 Codo[1693:8d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.487 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.490 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.490 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.497 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.499 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.499 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.499 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.502 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.504 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.505 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.506 Codo[1693:db03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.507 Codo[1693:5303] File Transfer Finished with response code 200
+2014-08-07 17:41:12.508 Codo[1693:8d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.509 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.512 Codo[1693:8107] File Transfer Finished with response code 200
+2014-08-07 17:41:12.512 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.512 Codo[1693:1203] File Transfer Finished with response code 200
+2014-08-07 17:41:12.515 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.515 Codo[1693:8d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.517 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.521 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.522 Codo[1693:8407] File Transfer Finished with response code 200
+2014-08-07 17:41:12.522 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.524 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.525 Codo[1693:c103] File Transfer Finished with response code 200
+2014-08-07 17:41:12.526 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.526 Codo[1693:c103] File Transfer Finished with response code 200
+2014-08-07 17:41:12.528 Codo[1693:8a03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.530 Codo[1693:c103] File Transfer Finished with response code 200
+2014-08-07 17:41:12.531 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.531 Codo[1693:470b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.535 Codo[1693:2d07] File Transfer Finished with response code 200
+2014-08-07 17:41:12.538 Codo[1693:db03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.544 Codo[1693:db03] File Transfer Finished with response code 200
+2014-08-07 17:41:12.544 Codo[1693:70b] Resetting plugins due to page load.
+2014-08-07 17:41:12.549 Codo[1693:740b] File Transfer Finished with response code 200
+2014-08-07 17:41:12.593 Codo[1693:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Documents/www/app.laiwanba/list.html
+2014-08-07 17:48:22.409 Codo[1816:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:48:22.415 Codo[1816:70b] Unlimited access to network resources
+2014-08-07 17:48:22.418 Codo[1816:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:48:22.432 Codo[1816:70b] [CDVTimer][file] 1.059949ms
+2014-08-07 17:48:22.447 Codo[1816:70b] [CDVTimer][splashscreen] 14.095008ms
+2014-08-07 17:48:22.447 Codo[1816:70b] [CDVTimer][TotalPluginStartup] 16.116023ms
+2014-08-07 17:48:22.489 Codo[1816:70b] Resetting plugins due to page load.
+2014-08-07 17:48:22.518 Codo[1816:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:48:22.727 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.730 Codo[1816:f107] File Transfer Finished with response code 200
+2014-08-07 17:48:22.732 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.735 Codo[1816:1203] File Transfer Finished with response code 200
+2014-08-07 17:48:22.737 Codo[1816:2b07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.738 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.738 Codo[1816:f107] File Transfer Finished with response code 200
+2014-08-07 17:48:22.742 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.742 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.743 Codo[1816:f107] File Transfer Finished with response code 200
+2014-08-07 17:48:22.745 Codo[1816:6f07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.747 Codo[1816:990b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.748 Codo[1816:f107] File Transfer Finished with response code 200
+2014-08-07 17:48:22.751 Codo[1816:2b07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.752 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.753 Codo[1816:6f07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.753 Codo[1816:f107] File Transfer Finished with response code 200
+2014-08-07 17:48:22.756 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.757 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.760 Codo[1816:6f07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.763 Codo[1816:990b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.765 Codo[1816:6f07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.766 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.766 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.768 Codo[1816:e403] File Transfer Finished with response code 200
+2014-08-07 17:48:22.771 Codo[1816:2b07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.773 Codo[1816:2b07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.773 Codo[1816:f107] File Transfer Finished with response code 200
+2014-08-07 17:48:22.773 Codo[1816:1203] File Transfer Finished with response code 200
+2014-08-07 17:48:22.775 Codo[1816:e403] File Transfer Finished with response code 200
+2014-08-07 17:48:22.776 Codo[1816:e403] File Transfer Finished with response code 200
+2014-08-07 17:48:22.780 Codo[1816:1203] File Transfer Finished with response code 200
+2014-08-07 17:48:22.782 Codo[1816:990b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.783 Codo[1816:6f07] File Transfer Finished with response code 200
+2014-08-07 17:48:22.786 Codo[1816:681b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.786 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.786 Codo[1816:990b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.787 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.791 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.791 Codo[1816:990b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.792 Codo[1816:1203] File Transfer Finished with response code 200
+2014-08-07 17:48:22.793 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.796 Codo[1816:4613] File Transfer Finished with response code 200
+2014-08-07 17:48:22.798 Codo[1816:e403] File Transfer Finished with response code 200
+2014-08-07 17:48:22.800 Codo[1816:1203] File Transfer Finished with response code 200
+2014-08-07 17:48:22.801 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.806 Codo[1816:cb03] File Transfer Finished with response code 200
+2014-08-07 17:48:22.806 Codo[1816:e403] File Transfer Finished with response code 200
+2014-08-07 17:48:22.811 Codo[1816:681b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.819 Codo[1816:681b] File Transfer Finished with response code 200
+2014-08-07 17:48:22.849 Codo[1816:70b] Resetting plugins due to page load.
+2014-08-07 17:48:22.893 Codo[1816:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Documents/www/app.laiwanba/list.html
+2014-08-07 17:50:58.488 Codo[1925:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:50:58.494 Codo[1925:70b] Unlimited access to network resources
+2014-08-07 17:50:58.496 Codo[1925:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:50:58.513 Codo[1925:70b] [CDVTimer][file] 1.075029ms
+2014-08-07 17:50:58.522 Codo[1925:70b] [CDVTimer][splashscreen] 8.077979ms
+2014-08-07 17:50:58.522 Codo[1925:70b] [CDVTimer][TotalPluginStartup] 10.149002ms
+2014-08-07 17:50:58.620 Codo[1925:70b] Resetting plugins due to page load.
+2014-08-07 17:50:58.661 Codo[1925:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:52:38.084 Codo[2035:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:52:38.090 Codo[2035:70b] Unlimited access to network resources
+2014-08-07 17:52:38.092 Codo[2035:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:52:38.109 Codo[2035:70b] [CDVTimer][file] 1.107991ms
+2014-08-07 17:52:38.118 Codo[2035:70b] [CDVTimer][splashscreen] 8.410990ms
+2014-08-07 17:52:38.118 Codo[2035:70b] [CDVTimer][TotalPluginStartup] 10.509014ms
+2014-08-07 17:52:38.213 Codo[2035:70b] Resetting plugins due to page load.
+2014-08-07 17:52:38.246 Codo[2035:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:52:38.528 Codo[2035:7903] File Transfer Finished with response code 200
+2014-08-07 17:52:38.540 Codo[2035:7203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.541 Codo[2035:7a03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.541 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.543 Codo[2035:7903] File Transfer Finished with response code 200
+2014-08-07 17:52:38.543 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.547 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.547 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.548 Codo[2035:7203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.549 Codo[2035:11107] File Transfer Finished with response code 200
+2014-08-07 17:52:38.550 Codo[2035:1203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.555 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.555 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.558 Codo[2035:11107] File Transfer Finished with response code 200
+2014-08-07 17:52:38.559 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.559 Codo[2035:7a03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.560 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.561 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.564 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.564 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.566 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.567 Codo[2035:cd1f] File Transfer Finished with response code 200
+2014-08-07 17:52:38.568 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.570 Codo[2035:7a03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.571 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.571 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.571 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.573 Codo[2035:cd1f] File Transfer Finished with response code 200
+2014-08-07 17:52:38.573 Codo[2035:2c07] File Transfer Finished with response code 200
+2014-08-07 17:52:38.579 Codo[2035:cd1f] File Transfer Finished with response code 200
+2014-08-07 17:52:38.579 Codo[2035:11107] File Transfer Finished with response code 200
+2014-08-07 17:52:38.581 Codo[2035:d003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.581 Codo[2035:cd1f] File Transfer Finished with response code 200
+2014-08-07 17:52:38.583 Codo[2035:1203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.588 Codo[2035:1203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.591 Codo[2035:1203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.591 Codo[2035:cd1f] File Transfer Finished with response code 200
+2014-08-07 17:52:38.595 Codo[2035:1050f] File Transfer Finished with response code 200
+2014-08-07 17:52:38.597 Codo[2035:fc0b] File Transfer Finished with response code 200
+2014-08-07 17:52:38.595 Codo[2035:12003] File Transfer Finished with response code 200
+2014-08-07 17:52:38.592 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.595 Codo[2035:7903] File Transfer Finished with response code 200
+2014-08-07 17:52:38.595 Codo[2035:7203] File Transfer Finished with response code 200
+2014-08-07 17:52:38.606 Codo[2035:11703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.609 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.610 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.611 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.613 Codo[2035:8f03] File Transfer Finished with response code 200
+2014-08-07 17:52:38.616 Codo[2035:4703] File Transfer Finished with response code 200
+2014-08-07 17:52:38.621 Codo[2035:11107] File Transfer Finished with response code 200
+2014-08-07 17:55:17.148 Codo[2142:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 17:55:17.154 Codo[2142:70b] Unlimited access to network resources
+2014-08-07 17:55:17.157 Codo[2142:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 17:55:17.172 Codo[2142:70b] [CDVTimer][file] 1.203001ms
+2014-08-07 17:55:17.181 Codo[2142:70b] [CDVTimer][splashscreen] 7.813990ms
+2014-08-07 17:55:17.181 Codo[2142:70b] [CDVTimer][TotalPluginStartup] 10.010004ms
+2014-08-07 17:55:17.278 Codo[2142:70b] Resetting plugins due to page load.
+2014-08-07 17:55:17.318 Codo[2142:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 17:55:17.534 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.540 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.542 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.542 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.545 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.547 Codo[2142:4703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.551 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.554 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.554 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.553 Codo[2142:4703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.558 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.559 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.560 Codo[2142:4703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.563 Codo[2142:710b] File Transfer Finished with response code 200
+2014-08-07 17:55:17.565 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.572 Codo[2142:710b] File Transfer Finished with response code 200
+2014-08-07 17:55:17.575 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.575 Codo[2142:4703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.577 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.580 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.583 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.584 Codo[2142:710b] File Transfer Finished with response code 200
+2014-08-07 17:55:17.585 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.592 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.602 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.603 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.603 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.607 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.607 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.611 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.617 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.617 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.618 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.622 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.627 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.629 Codo[2142:4703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.632 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.632 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.635 Codo[2142:4703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.635 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.637 Codo[2142:6a03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.638 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.640 Codo[2142:2c07] File Transfer Finished with response code 200
+2014-08-07 17:55:17.642 Codo[2142:bd03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.643 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.646 Codo[2142:710b] File Transfer Finished with response code 200
+2014-08-07 17:55:17.647 Codo[2142:820f] File Transfer Finished with response code 200
+2014-08-07 17:55:17.648 Codo[2142:8703] File Transfer Finished with response code 200
+2014-08-07 17:55:17.658 Codo[2142:bd03] File Transfer Finished with response code 200
+2014-08-07 17:55:17.659 Codo[2142:bd03] File Transfer Finished with response code 200
+2014-08-07 18:59:52.873 Codo[2670:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 18:59:52.884 Codo[2670:70b] Unlimited access to network resources
+2014-08-07 18:59:52.887 Codo[2670:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 18:59:52.909 Codo[2670:70b] [CDVTimer][file] 1.874030ms
+2014-08-07 18:59:52.924 Codo[2670:70b] [CDVTimer][splashscreen] 14.708996ms
+2014-08-07 18:59:52.925 Codo[2670:70b] [CDVTimer][TotalPluginStartup] 17.752051ms
+2014-08-07 18:59:53.066 Codo[2670:70b] Resetting plugins due to page load.
+2014-08-07 18:59:53.113 Codo[2670:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 18:59:53.308 Codo[2670:9a03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.310 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.314 Codo[2670:7d03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.315 Codo[2670:9a03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.317 Codo[2670:6807] File Transfer Finished with response code 200
+2014-08-07 18:59:53.319 Codo[2670:7303] File Transfer Finished with response code 200
+2014-08-07 18:59:53.319 Codo[2670:7d03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.322 Codo[2670:7d03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.323 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.324 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.326 Codo[2670:9a03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.327 Codo[2670:870b] File Transfer Finished with response code 200
+2014-08-07 18:59:53.330 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.331 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.333 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.333 Codo[2670:9a03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.334 Codo[2670:7303] File Transfer Finished with response code 200
+2014-08-07 18:59:53.342 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.344 Codo[2670:870b] File Transfer Finished with response code 200
+2014-08-07 18:59:53.344 Codo[2670:7303] File Transfer Finished with response code 200
+2014-08-07 18:59:53.344 Codo[2670:c003] File Transfer Finished with response code 200
+2014-08-07 18:59:53.344 Codo[2670:6807] File Transfer Finished with response code 200
+2014-08-07 18:59:53.346 Codo[2670:c003] File Transfer Finished with response code 200
+2014-08-07 18:59:53.348 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.349 Codo[2670:4717] File Transfer Finished with response code 200
+2014-08-07 18:59:53.351 Codo[2670:6807] File Transfer Finished with response code 200
+2014-08-07 18:59:53.355 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.357 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.357 Codo[2670:9a03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.360 Codo[2670:2e07] File Transfer Finished with response code 200
+2014-08-07 18:59:53.362 Codo[2670:c003] File Transfer Finished with response code 200
+2014-08-07 18:59:53.363 Codo[2670:c003] File Transfer Finished with response code 200
+2014-08-07 18:59:53.365 Codo[2670:870b] File Transfer Finished with response code 200
+2014-08-07 18:59:53.366 Codo[2670:c003] File Transfer Finished with response code 200
+2014-08-07 18:59:53.368 Codo[2670:870b] File Transfer Finished with response code 200
+2014-08-07 18:59:53.369 Codo[2670:4717] File Transfer Finished with response code 200
+2014-08-07 18:59:53.370 Codo[2670:4717] File Transfer Finished with response code 200
+2014-08-07 18:59:53.373 Codo[2670:4717] File Transfer Finished with response code 200
+2014-08-07 18:59:53.375 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.376 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.377 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.379 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.382 Codo[2670:7907] File Transfer Finished with response code 200
+2014-08-07 18:59:53.382 Codo[2670:b607] File Transfer Finished with response code 200
+2014-08-07 18:59:53.386 Codo[2670:4717] File Transfer Finished with response code 200
+2014-08-07 18:59:53.389 Codo[2670:7d03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.391 Codo[2670:c003] File Transfer Finished with response code 200
+2014-08-07 18:59:53.398 Codo[2670:7d03] File Transfer Finished with response code 200
+2014-08-07 18:59:53.404 Codo[2670:6807] File Transfer Finished with response code 200
+2014-08-07 18:59:53.412 Codo[2670:7907] File Transfer Finished with response code 200
+2014-08-07 18:59:53.447 Codo[2670:70b] Resetting plugins due to page load.
+2014-08-07 18:59:53.602 Codo[2670:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/www/app.test/index.html
+2014-08-07 19:16:54.677 Codo[3501:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 19:16:54.685 Codo[3501:70b] Unlimited access to network resources
+2014-08-07 19:16:54.687 Codo[3501:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 19:16:54.704 Codo[3501:70b] [CDVTimer][file] 1.176000ms
+2014-08-07 19:16:54.715 Codo[3501:70b] [CDVTimer][splashscreen] 10.887980ms
+2014-08-07 19:16:54.716 Codo[3501:70b] [CDVTimer][TotalPluginStartup] 13.078988ms
+2014-08-07 19:16:54.802 Codo[3501:70b] Resetting plugins due to page load.
+2014-08-07 19:16:54.839 Codo[3501:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-07 19:16:55.040 Codo[3501:9117] File Transfer Finished with response code 200
+2014-08-07 19:16:55.045 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.047 Codo[3501:6b03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.051 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.054 Codo[3501:6b03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.056 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.059 Codo[3501:6b03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.060 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.062 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.063 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.065 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.066 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.069 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.069 Codo[3501:10f03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.069 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.070 Codo[3501:9903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.072 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.073 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.075 Codo[3501:9903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.085 Codo[3501:b903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.088 Codo[3501:9903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.088 Codo[3501:11103] File Transfer Finished with response code 200
+2014-08-07 19:16:55.089 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.093 Codo[3501:6d03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.093 Codo[3501:11103] File Transfer Finished with response code 200
+2014-08-07 19:16:55.094 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.095 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.099 Codo[3501:11403] File Transfer Finished with response code 200
+2014-08-07 19:16:55.100 Codo[3501:10f03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.102 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.104 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.108 Codo[3501:10f03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.108 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.108 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.115 Codo[3501:9903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.116 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.121 Codo[3501:6b03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.127 Codo[3501:9903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.131 Codo[3501:11103] File Transfer Finished with response code 200
+2014-08-07 19:16:55.133 Codo[3501:9903] File Transfer Finished with response code 200
+2014-08-07 19:16:55.137 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.138 Codo[3501:6d03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.143 Codo[3501:11003] File Transfer Finished with response code 200
+2014-08-07 19:16:55.145 Codo[3501:6d03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.148 Codo[3501:6b03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.151 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.156 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.158 Codo[3501:6b03] File Transfer Finished with response code 200
+2014-08-07 19:16:55.161 Codo[3501:4613] File Transfer Finished with response code 200
+2014-08-07 19:16:55.164 Codo[3501:10f03] File Transfer Finished with response code 200
+2014-08-07 20:06:07.972 Codo[4247:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:06:08.004 Codo[4247:70b] Unlimited access to network resources
+2014-08-07 20:06:08.013 Codo[4247:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:06:08.277 Codo[4247:70b] [CDVTimer][file] 2.102971ms
+2014-08-07 20:06:08.356 Codo[4247:70b] [CDVTimer][splashscreen] 77.096999ms
+2014-08-07 20:06:08.357 Codo[4247:70b] [CDVTimer][TotalPluginStartup] 81.209004ms
+2014-08-07 20:06:08.507 Codo[4247:70b] Resetting plugins due to page load.
+2014-08-07 20:06:08.662 Codo[4247:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[4247]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:06:19.244 Codo[4247:70b] Cannot find executable for CFBundle 0xa464b40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:06:19.261 Codo[4247:70b] Cannot find executable for CFBundle 0xa478590 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/MusicLibrary.axbundle> (not loaded)
+2014-08-07 20:06:19.267 Codo[4247:70b] Cannot find executable for CFBundle 0xa645ab0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:06:27.110 Codo[4247:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+objc[4360]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:07:36.171 Codo[4360:70b] Cannot find executable for CFBundle 0xa5550d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:07:36.176 Codo[4360:70b] Cannot find executable for CFBundle 0xa571a70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:07:36.209 Codo[4360:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:07:36.215 Codo[4360:70b] Unlimited access to network resources
+2014-08-07 20:07:36.217 Codo[4360:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:07:36.237 Codo[4360:70b] [CDVTimer][file] 1.940966ms
+2014-08-07 20:07:36.246 Codo[4360:70b] [CDVTimer][splashscreen] 8.538008ms
+2014-08-07 20:07:36.247 Codo[4360:70b] [CDVTimer][TotalPluginStartup] 11.458993ms
+2014-08-07 20:07:36.403 Codo[4360:70b] Resetting plugins due to page load.
+2014-08-07 20:07:36.447 Codo[4360:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[4467]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:09:43.249 Codo[4467:70b] Cannot find executable for CFBundle 0xa52a410 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:09:43.254 Codo[4467:70b] Cannot find executable for CFBundle 0xa337200 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:09:43.284 Codo[4467:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:09:43.290 Codo[4467:70b] Unlimited access to network resources
+2014-08-07 20:09:43.292 Codo[4467:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:09:43.309 Codo[4467:70b] [CDVTimer][file] 1.206994ms
+2014-08-07 20:09:43.318 Codo[4467:70b] [CDVTimer][splashscreen] 8.475006ms
+2014-08-07 20:09:43.319 Codo[4467:70b] [CDVTimer][TotalPluginStartup] 10.670006ms
+2014-08-07 20:09:43.457 Codo[4467:70b] Resetting plugins due to page load.
+2014-08-07 20:09:43.504 Codo[4467:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[4575]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:12:49.858 Codo[4575:70b] Cannot find executable for CFBundle 0xa5287b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:12:49.863 Codo[4575:70b] Cannot find executable for CFBundle 0xa62d790 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:12:49.903 Codo[4575:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:12:49.909 Codo[4575:70b] Unlimited access to network resources
+2014-08-07 20:12:49.912 Codo[4575:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:12:49.929 Codo[4575:70b] [CDVTimer][file] 1.215041ms
+2014-08-07 20:12:49.942 Codo[4575:70b] [CDVTimer][splashscreen] 13.244987ms
+2014-08-07 20:12:49.943 Codo[4575:70b] [CDVTimer][TotalPluginStartup] 15.524983ms
+2014-08-07 20:12:50.119 Codo[4575:70b] Resetting plugins due to page load.
+2014-08-07 20:12:50.161 Codo[4575:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[4682]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:14:20.469 Codo[4682:70b] Cannot find executable for CFBundle 0xa511a00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:14:20.475 Codo[4682:70b] Cannot find executable for CFBundle 0xa434680 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:14:20.504 Codo[4682:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:14:20.512 Codo[4682:70b] Unlimited access to network resources
+2014-08-07 20:14:20.515 Codo[4682:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:14:20.535 Codo[4682:70b] [CDVTimer][file] 1.230955ms
+2014-08-07 20:14:20.544 Codo[4682:70b] [CDVTimer][splashscreen] 8.170009ms
+2014-08-07 20:14:20.544 Codo[4682:70b] [CDVTimer][TotalPluginStartup] 10.432005ms
+2014-08-07 20:14:20.613 Codo[4682:70b] Resetting plugins due to page load.
+2014-08-07 20:14:20.649 Codo[4682:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[4790]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:15:06.098 Codo[4790:70b] Cannot find executable for CFBundle 0xa328500 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:15:06.104 Codo[4790:70b] Cannot find executable for CFBundle 0xa41f920 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:15:06.132 Codo[4790:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:15:06.138 Codo[4790:70b] Unlimited access to network resources
+2014-08-07 20:15:06.140 Codo[4790:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:15:06.162 Codo[4790:70b] [CDVTimer][file] 1.251996ms
+2014-08-07 20:15:06.170 Codo[4790:70b] [CDVTimer][splashscreen] 7.849991ms
+2014-08-07 20:15:06.171 Codo[4790:70b] [CDVTimer][TotalPluginStartup] 10.109961ms
+2014-08-07 20:15:06.231 Codo[4790:70b] Resetting plugins due to page load.
+2014-08-07 20:15:06.267 Codo[4790:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[4898]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:15:54.827 Codo[4898:70b] Cannot find executable for CFBundle 0xa64cf60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:15:54.833 Codo[4898:70b] Cannot find executable for CFBundle 0xa536060 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:15:54.859 Codo[4898:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:15:54.865 Codo[4898:70b] Unlimited access to network resources
+2014-08-07 20:15:54.868 Codo[4898:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:15:54.885 Codo[4898:70b] [CDVTimer][file] 1.143992ms
+2014-08-07 20:15:54.893 Codo[4898:70b] [CDVTimer][splashscreen] 7.772028ms
+2014-08-07 20:15:54.894 Codo[4898:70b] [CDVTimer][TotalPluginStartup] 9.849012ms
+2014-08-07 20:15:54.949 Codo[4898:70b] Resetting plugins due to page load.
+2014-08-07 20:15:54.982 Codo[4898:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[5007]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-07 20:17:53.506 Codo[5007:70b] Cannot find executable for CFBundle 0xa423690 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-07 20:17:53.510 Codo[5007:70b] Cannot find executable for CFBundle 0xa5521f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-07 20:17:53.536 Codo[5007:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-07 20:17:53.542 Codo[5007:70b] Unlimited access to network resources
+2014-08-07 20:17:53.544 Codo[5007:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-07 20:17:53.562 Codo[5007:70b] [CDVTimer][file] 1.129031ms
+2014-08-07 20:17:53.570 Codo[5007:70b] [CDVTimer][splashscreen] 7.200003ms
+2014-08-07 20:17:53.570 Codo[5007:70b] [CDVTimer][TotalPluginStartup] 9.230971ms
+2014-08-07 20:17:53.627 Codo[5007:70b] Resetting plugins due to page load.
+2014-08-07 20:17:53.659 Codo[5007:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[34742]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 14:09:34.368 Codo[34742:70b] Cannot find executable for CFBundle 0xa321490 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 14:09:34.380 Codo[34742:70b] Cannot find executable for CFBundle 0xa6266e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 14:09:34.599 Codo[34742:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 14:09:34.633 Codo[34742:70b] Unlimited access to network resources
+2014-08-08 14:09:34.638 Codo[34742:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 14:09:34.899 Codo[34742:70b] [CDVTimer][file] 1.610994ms
+2014-08-08 14:09:34.992 Codo[34742:70b] [CDVTimer][splashscreen] 87.869048ms
+2014-08-08 14:09:34.992 Codo[34742:70b] [CDVTimer][TotalPluginStartup] 94.910979ms
+2014-08-08 14:09:35.139 Codo[34742:70b] Resetting plugins due to page load.
+2014-08-08 14:09:35.315 Codo[34742:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+objc[35153]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 15:27:41.299 Codo[35153:70b] Cannot find executable for CFBundle 0xa540bb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 15:27:41.339 Codo[35153:70b] Cannot find executable for CFBundle 0xa559560 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 15:27:41.385 Codo[35153:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 15:27:41.450 Codo[35153:70b] Unlimited access to network resources
+2014-08-08 15:27:41.455 Codo[35153:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 15:27:41.669 Codo[35153:70b] [CDVTimer][file] 1.980007ms
+2014-08-08 15:27:41.716 Codo[35153:70b] [CDVTimer][splashscreen] 46.474040ms
+2014-08-08 15:27:41.717 Codo[35153:70b] [CDVTimer][TotalPluginStartup] 49.677014ms
+2014-08-08 15:27:41.875 Codo[35153:70b] Resetting plugins due to page load.
+2014-08-08 15:27:42.004 Codo[35153:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-08 15:27:42.264 Codo[35153:70b] Resetting plugins due to page load.
+2014-08-08 15:27:42.424 Codo[35153:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Library/NoCloud/www/app.test/index.html
+objc[35280]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 15:28:09.704 Codo[35280:70b] Cannot find executable for CFBundle 0xa5186a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 15:28:09.710 Codo[35280:70b] Cannot find executable for CFBundle 0xa35a880 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 15:28:09.735 Codo[35280:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 15:28:09.741 Codo[35280:70b] Unlimited access to network resources
+2014-08-08 15:28:09.743 Codo[35280:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 15:28:09.759 Codo[35280:70b] [CDVTimer][file] 1.258016ms
+2014-08-08 15:28:09.767 Codo[35280:70b] [CDVTimer][splashscreen] 7.462978ms
+2014-08-08 15:28:09.768 Codo[35280:70b] [CDVTimer][TotalPluginStartup] 9.699047ms
+2014-08-08 15:28:09.819 Codo[35280:70b] Resetting plugins due to page load.
+2014-08-08 15:28:09.850 Codo[35280:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Codo.app/www/index.html
+2014-08-08 15:28:10.030 Codo[35280:70b] Resetting plugins due to page load.
+2014-08-08 15:28:10.480 Codo[35280:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2B9C3C35-32C6-4498-A7C7-46F27C71EA51/Library/NoCloud/www/app.test/index.html
+objc[35591]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 15:34:13.503 Codo[35591:70b] Cannot find executable for CFBundle 0xa63e810 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 15:34:13.509 Codo[35591:70b] Cannot find executable for CFBundle 0xa350ef0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 15:34:13.539 Codo[35591:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 15:34:13.544 Codo[35591:70b] Unlimited access to network resources
+2014-08-08 15:34:13.548 Codo[35591:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 15:34:13.565 Codo[35591:70b] [CDVTimer][file] 1.506984ms
+2014-08-08 15:34:13.574 Codo[35591:70b] [CDVTimer][splashscreen] 9.060025ms
+2014-08-08 15:34:13.575 Codo[35591:70b] [CDVTimer][TotalPluginStartup] 11.619985ms
+2014-08-08 15:34:13.761 Codo[35591:70b] Resetting plugins due to page load.
+2014-08-08 15:34:13.805 Codo[35591:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
+2014-08-08 15:34:14.093 Codo[35591:6e03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.093 Codo[35591:10903] File Transfer Finished with response code 200
+2014-08-08 15:34:14.093 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.093 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.098 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.098 Codo[35591:6e03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.102 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.102 Codo[35591:8f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.104 Codo[35591:a107] FileTransferError {
+    body = "Could not create path to save downloaded file: The operation couldn\U2019t be completed. (Cocoa error 516.)";
+    code = 1;
+    "http_status" = 200;
+    source = "http://g.alicdn.daily.taobao.net/ilw/app-checkin/0.0.4/css/iconfont/icomoon.eot";
+    target = "file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Library/NoCloud/www/app.checkin/css/iconfont/icomoon.eot";
+}
+2014-08-08 15:34:14.105 Codo[35591:a107] File Transfer Error: Could not create path to save downloaded file: The operation couldn’t be completed. (Cocoa error 516.)
+2014-08-08 15:34:14.117 Codo[35591:a107] File Transfer Finished with response code 200
+2014-08-08 15:34:14.120 Codo[35591:a107] File Transfer Finished with response code 200
+2014-08-08 15:34:14.121 Codo[35591:1203] File Transfer Finished with response code 200
+2014-08-08 15:34:14.121 Codo[35591:10303] File Transfer Finished with response code 200
+2014-08-08 15:34:14.124 Codo[35591:10303] File Transfer Finished with response code 200
+2014-08-08 15:34:14.124 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.125 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.132 Codo[35591:8f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.133 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.136 Codo[35591:1203] File Transfer Finished with response code 200
+2014-08-08 15:34:14.139 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.143 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.143 Codo[35591:8f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.144 Codo[35591:a107] File Transfer Finished with response code 200
+2014-08-08 15:34:14.144 Codo[35591:6e03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.144 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.146 Codo[35591:6e03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.151 Codo[35591:6e03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.151 Codo[35591:a107] File Transfer Finished with response code 200
+2014-08-08 15:34:14.152 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.152 Codo[35591:a107] File Transfer Finished with response code 200
+2014-08-08 15:34:14.153 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.159 Codo[35591:10903] File Transfer Finished with response code 200
+2014-08-08 15:34:14.159 Codo[35591:6e03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.159 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.159 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.162 Codo[35591:10303] File Transfer Finished with response code 200
+2014-08-08 15:34:14.170 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.170 Codo[35591:10303] File Transfer Finished with response code 200
+2014-08-08 15:34:14.174 Codo[35591:a107] File Transfer Finished with response code 200
+2014-08-08 15:34:14.174 Codo[35591:9b03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.175 Codo[35591:1203] File Transfer Finished with response code 200
+2014-08-08 15:34:14.177 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.183 Codo[35591:9b03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.184 Codo[35591:9b03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.184 Codo[35591:3403] File Transfer Finished with response code 200
+2014-08-08 15:34:14.191 Codo[35591:8f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.192 Codo[35591:1203] File Transfer Finished with response code 200
+2014-08-08 15:34:14.201 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.222 Codo[35591:6f03] File Transfer Finished with response code 200
+2014-08-08 15:34:14.236 Codo[35591:9b03] File Transfer Finished with response code 200
+objc[74310]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 16:16:06.482 Codo[74310:70b] Cannot find executable for CFBundle 0xa433e50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 16:16:06.490 Codo[74310:70b] Cannot find executable for CFBundle 0xa438f20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 16:16:06.538 Codo[74310:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 16:16:06.548 Codo[74310:70b] Unlimited access to network resources
+2014-08-08 16:16:06.554 Codo[74310:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 16:16:06.583 Codo[74310:70b] [CDVTimer][file] 2.020001ms
+2014-08-08 16:16:06.604 Codo[74310:70b] [CDVTimer][splashscreen] 20.856023ms
+2014-08-08 16:16:06.605 Codo[74310:70b] [CDVTimer][TotalPluginStartup] 24.221957ms
+2014-08-08 16:16:06.820 Codo[74310:70b] Resetting plugins due to page load.
+2014-08-08 16:16:06.897 Codo[74310:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
+2014-08-08 16:16:07.160 Codo[74310:4817] File Transfer Finished with response code 200
+2014-08-08 16:16:07.177 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.178 Codo[74310:7607] File Transfer Finished with response code 200
+2014-08-08 16:16:07.178 Codo[74310:7707] File Transfer Finished with response code 200
+2014-08-08 16:16:07.179 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.180 Codo[74310:8703] File Transfer Finished with response code 200
+2014-08-08 16:16:07.182 Codo[74310:2c07] File Transfer Finished with response code 200
+2014-08-08 16:16:07.182 Codo[74310:f603] File Transfer Finished with response code 200
+2014-08-08 16:16:07.182 Codo[74310:8703] File Transfer Finished with response code 200
+2014-08-08 16:16:07.183 Codo[74310:2c07] File Transfer Finished with response code 200
+2014-08-08 16:16:07.186 Codo[74310:7607] File Transfer Finished with response code 200
+2014-08-08 16:16:07.185 Codo[74310:f603] File Transfer Finished with response code 200
+2014-08-08 16:16:07.190 Codo[74310:e203] File Transfer Finished with response code 200
+2014-08-08 16:16:07.190 Codo[74310:2c07] File Transfer Finished with response code 200
+2014-08-08 16:16:07.191 Codo[74310:4817] File Transfer Finished with response code 200
+2014-08-08 16:16:07.197 Codo[74310:2c07] File Transfer Finished with response code 200
+2014-08-08 16:16:07.203 Codo[74310:e203] File Transfer Finished with response code 200
+2014-08-08 16:16:07.204 Codo[74310:f603] File Transfer Finished with response code 200
+2014-08-08 16:16:07.205 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.203 Codo[74310:4817] File Transfer Finished with response code 200
+2014-08-08 16:16:07.207 Codo[74310:7d03] File Transfer Finished with response code 200
+2014-08-08 16:16:07.210 Codo[74310:7d03] File Transfer Finished with response code 200
+2014-08-08 16:16:07.210 Codo[74310:2c07] File Transfer Finished with response code 200
+2014-08-08 16:16:07.216 Codo[74310:4817] File Transfer Finished with response code 200
+2014-08-08 16:16:07.221 Codo[74310:7707] File Transfer Finished with response code 200
+2014-08-08 16:16:07.222 Codo[74310:2c07] File Transfer Finished with response code 200
+2014-08-08 16:16:07.222 Codo[74310:4817] File Transfer Finished with response code 200
+2014-08-08 16:16:07.237 Codo[74310:7707] File Transfer Finished with response code 200
+2014-08-08 16:16:07.238 Codo[74310:7d03] File Transfer Finished with response code 200
+2014-08-08 16:16:07.238 Codo[74310:e203] File Transfer Finished with response code 200
+2014-08-08 16:16:07.240 Codo[74310:f603] File Transfer Finished with response code 200
+2014-08-08 16:16:07.244 Codo[74310:8703] File Transfer Finished with response code 200
+2014-08-08 16:16:07.244 Codo[74310:f603] File Transfer Finished with response code 200
+2014-08-08 16:16:07.245 Codo[74310:7d03] File Transfer Finished with response code 200
+2014-08-08 16:16:07.248 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.260 Codo[74310:7607] File Transfer Finished with response code 200
+2014-08-08 16:16:07.261 Codo[74310:7d03] File Transfer Finished with response code 200
+2014-08-08 16:16:07.263 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.266 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.269 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.272 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.290 Codo[74310:7607] File Transfer Finished with response code 200
+2014-08-08 16:16:07.290 Codo[74310:10803] File Transfer Finished with response code 200
+2014-08-08 16:16:07.291 Codo[74310:8903] File Transfer Finished with response code 200
+2014-08-08 16:16:07.298 Codo[74310:f603] File Transfer Finished with response code 200
+2014-08-08 16:16:07.299 Codo[74310:8903] File Transfer Finished with response code 200
+2014-08-08 16:16:07.304 Codo[74310:7d03] File Transfer Finished with response code 200
+2014-08-08 16:16:07.305 Codo[74310:8903] File Transfer Finished with response code 200
+2014-08-08 16:16:07.333 Codo[74310:e203] File Transfer Finished with response code 200
+2014-08-08 16:16:12.200 Codo[74310:f603] FileTransferError {
+    body = "";
+    code = 3;
+    "http_status" = 0;
+    source = "http://g.alicdn.daily.taobao.net/ilw/app-checkin/0.0.4/js/cache.js";
+    target = "file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Library/NoCloud/www/app.checkin/js/cache.js";
+}
+2014-08-08 16:16:12.200 Codo[74310:f603] File Transfer Error: The network connection was lost.
+objc[74424]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 16:17:13.147 Codo[74424:70b] Cannot find executable for CFBundle 0xa613950 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 16:17:13.152 Codo[74424:70b] Cannot find executable for CFBundle 0xa346dc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 16:17:13.202 Codo[74424:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 16:17:13.209 Codo[74424:70b] Unlimited access to network resources
+2014-08-08 16:17:13.213 Codo[74424:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 16:17:13.234 Codo[74424:70b] [CDVTimer][file] 1.412988ms
+2014-08-08 16:17:13.251 Codo[74424:70b] [CDVTimer][splashscreen] 16.392052ms
+2014-08-08 16:17:13.251 Codo[74424:70b] [CDVTimer][TotalPluginStartup] 18.965006ms
+2014-08-08 16:17:13.414 Codo[74424:70b] Resetting plugins due to page load.
+2014-08-08 16:17:13.470 Codo[74424:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
+2014-08-08 16:17:13.670 Codo[74424:10003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.683 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.685 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.686 Codo[74424:4813] File Transfer Finished with response code 200
+2014-08-08 16:17:13.687 Codo[74424:7903] File Transfer Finished with response code 200
+2014-08-08 16:17:13.690 Codo[74424:8f07] File Transfer Finished with response code 200
+2014-08-08 16:17:13.692 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.693 Codo[74424:9a03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.694 Codo[74424:9a03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.694 Codo[74424:fc07] File Transfer Finished with response code 200
+2014-08-08 16:17:13.698 Codo[74424:9a03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.699 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.700 Codo[74424:9a03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.700 Codo[74424:4813] File Transfer Finished with response code 200
+2014-08-08 16:17:13.701 Codo[74424:10003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.706 Codo[74424:9a03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.706 Codo[74424:960b] File Transfer Finished with response code 200
+2014-08-08 16:17:13.707 Codo[74424:960b] File Transfer Finished with response code 200
+2014-08-08 16:17:13.709 Codo[74424:960b] File Transfer Finished with response code 200
+2014-08-08 16:17:13.711 Codo[74424:960b] File Transfer Finished with response code 200
+2014-08-08 16:17:13.715 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.716 Codo[74424:4813] File Transfer Finished with response code 200
+2014-08-08 16:17:13.718 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.718 Codo[74424:4813] File Transfer Finished with response code 200
+2014-08-08 16:17:13.719 Codo[74424:4813] File Transfer Finished with response code 200
+2014-08-08 16:17:13.719 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.722 Codo[74424:10003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.723 Codo[74424:8c03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.724 Codo[74424:b803] File Transfer Finished with response code 200
+2014-08-08 16:17:13.725 Codo[74424:10003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.726 Codo[74424:fc07] File Transfer Finished with response code 200
+2014-08-08 16:17:13.727 Codo[74424:7903] File Transfer Finished with response code 200
+2014-08-08 16:17:13.730 Codo[74424:8c03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.732 Codo[74424:b403] File Transfer Finished with response code 200
+2014-08-08 16:17:13.733 Codo[74424:4813] File Transfer Finished with response code 200
+2014-08-08 16:17:13.746 Codo[74424:7903] File Transfer Finished with response code 200
+2014-08-08 16:17:13.749 Codo[74424:b403] File Transfer Finished with response code 200
+2014-08-08 16:17:13.753 Codo[74424:fc07] File Transfer Finished with response code 200
+2014-08-08 16:17:13.774 Codo[74424:7903] File Transfer Finished with response code 200
+2014-08-08 16:17:13.782 Codo[74424:8c03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.785 Codo[74424:7903] File Transfer Finished with response code 200
+2014-08-08 16:17:13.786 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.788 Codo[74424:fc07] File Transfer Finished with response code 200
+2014-08-08 16:17:13.791 Codo[74424:8c03] File Transfer Finished with response code 200
+2014-08-08 16:17:13.795 Codo[74424:b803] File Transfer Finished with response code 200
+2014-08-08 16:17:13.796 Codo[74424:b403] File Transfer Finished with response code 200
+2014-08-08 16:17:13.801 Codo[74424:960b] File Transfer Finished with response code 200
+2014-08-08 16:17:13.805 Codo[74424:b403] File Transfer Finished with response code 200
+2014-08-08 16:17:13.812 Codo[74424:c003] File Transfer Finished with response code 200
+2014-08-08 16:17:13.825 Codo[74424:c003] File Transfer Finished with response code 200
+objc[74559]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 16:18:08.211 Codo[74559:70b] Cannot find executable for CFBundle 0xa6414e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 16:18:08.239 Codo[74559:70b] Cannot find executable for CFBundle 0xa3426f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 16:18:08.283 Codo[74559:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 16:18:08.293 Codo[74559:70b] Unlimited access to network resources
+2014-08-08 16:18:08.297 Codo[74559:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 16:18:08.322 Codo[74559:70b] [CDVTimer][file] 2.683997ms
+2014-08-08 16:18:08.355 Codo[74559:70b] [CDVTimer][splashscreen] 32.465994ms
+2014-08-08 16:18:08.356 Codo[74559:70b] [CDVTimer][TotalPluginStartup] 36.568999ms
+2014-08-08 16:18:08.600 Codo[74559:70b] Resetting plugins due to page load.
+2014-08-08 16:18:08.686 Codo[74559:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
+2014-08-08 16:18:08.907 Codo[74559:70b] THREAD WARNING: ['FileTransfer'] took '10.396729' ms. Plugin should use a background thread.
+2014-08-08 16:18:08.942 Codo[74559:a403] File Transfer Finished with response code 200
+2014-08-08 16:18:08.945 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:08.947 Codo[74559:4813] File Transfer Finished with response code 200
+2014-08-08 16:18:08.949 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:08.952 Codo[74559:4813] File Transfer Finished with response code 200
+2014-08-08 16:18:08.952 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:08.958 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.961 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:08.961 Codo[74559:4813] File Transfer Finished with response code 200
+2014-08-08 16:18:08.964 Codo[74559:4813] File Transfer Finished with response code 200
+2014-08-08 16:18:08.969 Codo[74559:4813] File Transfer Finished with response code 200
+2014-08-08 16:18:08.969 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:08.970 Codo[74559:930b] File Transfer Finished with response code 200
+2014-08-08 16:18:08.971 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:08.972 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.973 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:08.975 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.977 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.977 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:08.978 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.979 Codo[74559:10703] File Transfer Finished with response code 200
+2014-08-08 16:18:08.980 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:08.982 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:08.982 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:08.983 Codo[74559:7a03] File Transfer Finished with response code 200
+2014-08-08 16:18:08.985 Codo[74559:a403] File Transfer Finished with response code 200
+2014-08-08 16:18:08.988 Codo[74559:a403] File Transfer Finished with response code 200
+2014-08-08 16:18:08.990 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:08.990 Codo[74559:6513] File Transfer Finished with response code 200
+2014-08-08 16:18:08.991 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:08.994 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.996 Codo[74559:930b] File Transfer Finished with response code 200
+2014-08-08 16:18:08.995 Codo[74559:10703] File Transfer Finished with response code 200
+2014-08-08 16:18:08.996 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:08.999 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:09.004 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:09.005 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:09.012 Codo[74559:a403] File Transfer Finished with response code 200
+2014-08-08 16:18:09.014 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:09.016 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:09.014 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:09.019 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:09.021 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:09.024 Codo[74559:a207] File Transfer Finished with response code 200
+2014-08-08 16:18:09.026 Codo[74559:10703] File Transfer Finished with response code 200
+2014-08-08 16:18:09.028 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:09.030 Codo[74559:2c07] File Transfer Finished with response code 200
+2014-08-08 16:18:09.033 Codo[74559:b303] File Transfer Finished with response code 200
+2014-08-08 16:18:09.035 Codo[74559:7307] File Transfer Finished with response code 200
+2014-08-08 16:18:09.041 Codo[74559:b303] File Transfer Finished with response code 200
+objc[74672]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 16:18:59.671 Codo[74672:70b] Cannot find executable for CFBundle 0xa53aaf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 16:18:59.675 Codo[74672:70b] Cannot find executable for CFBundle 0xa416b10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 16:18:59.700 Codo[74672:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 16:18:59.706 Codo[74672:70b] Unlimited access to network resources
+2014-08-08 16:18:59.708 Codo[74672:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 16:18:59.725 Codo[74672:70b] [CDVTimer][file] 1.136005ms
+2014-08-08 16:18:59.733 Codo[74672:70b] [CDVTimer][splashscreen] 7.752001ms
+2014-08-08 16:18:59.734 Codo[74672:70b] [CDVTimer][TotalPluginStartup] 9.827971ms
+2014-08-08 16:18:59.802 Codo[74672:70b] Resetting plugins due to page load.
+2014-08-08 16:18:59.834 Codo[74672:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
+2014-08-08 16:19:00.014 Codo[74672:700b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.013 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.016 Codo[74672:8103] File Transfer Finished with response code 200
+2014-08-08 16:19:00.016 Codo[74672:640b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.018 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.019 Codo[74672:ac0b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.022 Codo[74672:640b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.025 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.026 Codo[74672:640b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.027 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.027 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.030 Codo[74672:ac0b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.031 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.035 Codo[74672:f007] File Transfer Finished with response code 200
+2014-08-08 16:19:00.036 Codo[74672:f007] File Transfer Finished with response code 200
+2014-08-08 16:19:00.038 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.038 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.039 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.040 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.041 Codo[74672:b703] File Transfer Finished with response code 200
+2014-08-08 16:19:00.041 Codo[74672:ac0b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.042 Codo[74672:640b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.043 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.048 Codo[74672:9303] File Transfer Finished with response code 200
+2014-08-08 16:19:00.051 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.051 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.054 Codo[74672:11e13] File Transfer Finished with response code 200
+2014-08-08 16:19:00.055 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.056 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.057 Codo[74672:f007] File Transfer Finished with response code 200
+2014-08-08 16:19:00.057 Codo[74672:11e13] File Transfer Finished with response code 200
+2014-08-08 16:19:00.058 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.060 Codo[74672:9303] File Transfer Finished with response code 200
+2014-08-08 16:19:00.062 Codo[74672:f007] File Transfer Finished with response code 200
+2014-08-08 16:19:00.063 Codo[74672:ac0b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.066 Codo[74672:9303] File Transfer Finished with response code 200
+2014-08-08 16:19:00.077 Codo[74672:640b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.077 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.077 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.077 Codo[74672:f007] File Transfer Finished with response code 200
+2014-08-08 16:19:00.086 Codo[74672:8103] File Transfer Finished with response code 200
+2014-08-08 16:19:00.089 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.089 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.090 Codo[74672:640b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.098 Codo[74672:1203] File Transfer Finished with response code 200
+2014-08-08 16:19:00.101 Codo[74672:ac0b] File Transfer Finished with response code 200
+2014-08-08 16:19:00.101 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.106 Codo[74672:2b07] File Transfer Finished with response code 200
+2014-08-08 16:19:00.107 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.110 Codo[74672:9113] File Transfer Finished with response code 200
+2014-08-08 16:19:00.127 Codo[74672:70b] Resetting plugins due to page load.
+2014-08-08 16:19:00.224 Codo[74672:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Library/NoCloud/www/app.test/index.html
+objc[75030]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-08-08 16:30:27.760 Codo[75030:70b] Cannot find executable for CFBundle 0xa63a6a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-08-08 16:30:27.786 Codo[75030:70b] Cannot find executable for CFBundle 0xa435950 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-08-08 16:30:27.828 Codo[75030:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-08 16:30:27.879 Codo[75030:70b] Unlimited access to network resources
+2014-08-08 16:30:27.883 Codo[75030:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-08 16:30:28.095 Codo[75030:70b] [CDVTimer][file] 2.635956ms
+2014-08-08 16:30:28.157 Codo[75030:70b] [CDVTimer][splashscreen] 60.585022ms
+2014-08-08 16:30:28.157 Codo[75030:70b] [CDVTimer][TotalPluginStartup] 64.549029ms
+2014-08-08 16:30:28.354 Codo[75030:70b] Resetting plugins due to page load.
+2014-08-08 16:30:28.514 Codo[75030:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
+2014-08-08 16:30:28.800 Codo[75030:f303] File Transfer Finished with response code 200
+2014-08-08 16:30:28.800 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.808 Codo[75030:ba03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.809 Codo[75030:f303] File Transfer Finished with response code 200
+2014-08-08 16:30:28.810 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.810 Codo[75030:f303] File Transfer Finished with response code 200
+2014-08-08 16:30:28.811 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.818 Codo[75030:7703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.818 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.819 Codo[75030:a103] File Transfer Finished with response code 200
+2014-08-08 16:30:28.819 Codo[75030:ec03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.820 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.824 Codo[75030:ba03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.824 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.825 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.826 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.827 Codo[75030:ba03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.829 Codo[75030:f703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.830 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.833 Codo[75030:2d07] File Transfer Finished with response code 200
+2014-08-08 16:30:28.837 Codo[75030:ec03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.838 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.841 Codo[75030:2d07] File Transfer Finished with response code 200
+2014-08-08 16:30:28.841 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.842 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.843 Codo[75030:f703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.846 Codo[75030:f303] File Transfer Finished with response code 200
+2014-08-08 16:30:28.846 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.850 Codo[75030:f303] File Transfer Finished with response code 200
+2014-08-08 16:30:28.851 Codo[75030:7703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.851 Codo[75030:f303] File Transfer Finished with response code 200
+2014-08-08 16:30:28.854 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.856 Codo[75030:ec03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.857 Codo[75030:7703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.860 Codo[75030:f703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.860 Codo[75030:2d07] File Transfer Finished with response code 200
+2014-08-08 16:30:28.866 Codo[75030:ba03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.867 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.868 Codo[75030:7703] File Transfer Finished with response code 200
+2014-08-08 16:30:28.868 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.875 Codo[75030:ec03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.876 Codo[75030:ec03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.876 Codo[75030:a103] File Transfer Finished with response code 200
+2014-08-08 16:30:28.878 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.887 Codo[75030:a103] File Transfer Finished with response code 200
+2014-08-08 16:30:28.888 Codo[75030:4913] File Transfer Finished with response code 200
+2014-08-08 16:30:28.892 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.895 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.899 Codo[75030:2d07] File Transfer Finished with response code 200
+2014-08-08 16:30:28.900 Codo[75030:12b03] File Transfer Finished with response code 200
+2014-08-08 16:30:28.943 Codo[75030:70b] Resetting plugins due to page load.
+2014-08-08 16:30:29.119 Codo[75030:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Library/NoCloud/www/app.test/index.html
