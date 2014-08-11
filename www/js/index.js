@@ -80,6 +80,7 @@ var app = {
                             app.log('下载完成' + item.name)
                             if(appLen === 0) {
                                 app.log('全部下载完成');
+                                navigator.notification.alert('全部下载完成', null, '提示');
                                 navigator.splashscreen.hide();
                                 //localStorage.setItem('localData', JSON.stringify(data));
                                 location.href = root + 'app.test/index.html';
