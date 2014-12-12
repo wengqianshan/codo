@@ -37,6 +37,12 @@ body {
     background-color: #f60;
 }
 .navbar{
-    background-color: #f60;
+    background-color: #222;
     color: #fff;
+}
+.navbar a.link{
+    color: #eee;
+}
+.toolbar a.link{
+    color: #222;
 }

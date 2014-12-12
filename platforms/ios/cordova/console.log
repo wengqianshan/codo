@@ -1232,3 +1232,18 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-09-10 13:44:59.598 Codo[36394:70b] Resetting plugins due to page load.
 2014-09-10 13:44:59.732 Codo[36394:70b] Finished load of: file:///Users/xiaoshan/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/614BC4C1-91D4-43B4-B68C-2BCCD29A5B3C/Codo.app/www/index.html
 Terminating in response to SpringBoard's termination.
+2014-11-10 09:56:54.367 Codo[13622:296554] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/501141EA-09E8-4355-BD7D-55D04845E34C/Library/Cookies/Cookies.binarycookies
+2014-11-10 09:56:54.605 Codo[13622:296554] Multi-tasking -> Device: YES, App: YES
+2014-11-10 09:56:54.641 Codo[13622:296554] Unlimited access to network resources
+2014-11-10 09:56:54.648 Codo[13622:296554] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-11-10 09:56:55.370 Codo[13622:296554] [CDVTimer][file] 5.849004ms
+2014-11-10 09:56:55.516 Codo[13622:296554] [CDVTimer][splashscreen] 146.022022ms
+2014-11-10 09:56:55.516 Codo[13622:296554] [CDVTimer][TotalPluginStartup] 152.355969ms
+2014-11-10 09:56:56.931 Codo[13622:296554] Resetting plugins due to page load.
+2014-11-10 09:56:57.169 Codo[13622:296554] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/FAFCAE25-67D2-4A00-A9AD-C504C3E3F609/Codo.app/www/index.html
