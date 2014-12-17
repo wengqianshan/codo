@@ -64,10 +64,11 @@
                     <div data-page="index" class="page">
                         <!-- Scrollable page content -->
                         <div class="page-content">
-                            <p>Page content goes here</p>
+                            <!-- <p>Page content goes here</p> -->
                             <!-- Link to another page -->
-                            <a href="about.html">About app</a>
+                            <a href="about.html">打开新页面</a>
                             <div class="" id="J_config"></div>
+                            <div class="" id="J_content"></div>
                         </div>
                     </div>
                 </div>
@@ -82,9 +83,23 @@
                 </div>
             </div>
         </div>
+        <script type="text/html" id="J_tmpl_config">
+            <h3>版本号：{{version}}</h3>
+            {{each webapps}}
+                <p>{{$value.name}}：{{$value.version}}</p>
+            {{/each}}
+        </script>
+        <script type="text/html" id="J_tmpl_list">
+            {{each list}}
+                <img src="{{$value.cover_pic}}"/>
+                <h3>{{$value.title}}</h3>
+                <p>{{$value.notice}}</p>
+            {{/each}}
+        </script>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/framework7.min.js"></script>
         <script type="text/javascript" src="js/zepto.min.js"></script>
+        <script type="text/javascript" src="js/template.js"></script>
         <script type="text/javascript" src="js/main.js"></script>
         <script type="text/javascript">
             

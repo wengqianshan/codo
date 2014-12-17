@@ -47,6 +47,7 @@
 		2C0E79517BC042129925A479 /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C7F96A3581247519017C22C /* CDVNotification.m */; };
 		F23826F64D2F429594D51A02 /* CDVNotification.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9B67805163BD4C3EB6EF0AE0 /* CDVNotification.bundle */; };
 		3DDC3AA6F50D4DA49B52B6C4 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E0C9F81CFC64660B7444A77 /* AudioToolbox.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		05D7C7248C1541ED8308E357 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = F5FC87FFB20349DFB59B7E80 /* CDVStatusBar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -127,6 +128,8 @@
 		54122A80FF1C4E5792382985 /* CDVNotification.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVNotification.h"; path = "org.apache.cordova.dialogs/CDVNotification.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		9B67805163BD4C3EB6EF0AE0 /* CDVNotification.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = "CDVNotification.bundle"; path = "CDVNotification.bundle"; sourceTree = "<group>"; };
 		9E0C9F81CFC64660B7444A77 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "AudioToolbox.framework"; path = "System/Library/Frameworks/AudioToolbox.framework"; sourceTree = SDKROOT; fileEncoding = 4; };
+		F5FC87FFB20349DFB59B7E80 /* CDVStatusBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVStatusBar.m"; path = "org.apache.cordova.statusbar/CDVStatusBar.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		3C172F385D58451D804E427A /* CDVStatusBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVStatusBar.h"; path = "org.apache.cordova.statusbar/CDVStatusBar.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +267,8 @@
 				9A35BAEC07D446DA8D11AF15 /* CDVSplashScreen.h */,
 				2C7F96A3581247519017C22C /* CDVNotification.m */,
 				54122A80FF1C4E5792382985 /* CDVNotification.h */,
+				F5FC87FFB20349DFB59B7E80 /* CDVStatusBar.m */,
+				3C172F385D58451D804E427A /* CDVStatusBar.h */,
 			);
 			name = Plugins;
 			path = "Codo/Plugins";
@@ -466,6 +471,7 @@
 				D7905CCFD9B34D7888255ADE /* CDVFileTransfer.m in Sources */,
 				0E5252B83AD84A1A8099A0EB /* CDVSplashScreen.m in Sources */,
 				2C0E79517BC042129925A479 /* CDVNotification.m in Sources */,
+				05D7C7248C1541ED8308E357 /* CDVStatusBar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

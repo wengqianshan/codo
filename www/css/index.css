@@ -34,11 +34,12 @@ body {
 }
 
 .statusbar-overlay{
-    background-color: #f60;
+    background-color: #222;
 }
 .navbar{
     background-color: #222;
     color: #fff;
+    border-bottom-color: #222;
 }
 .navbar a.link{
     color: #eee;

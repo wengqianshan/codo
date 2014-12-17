@@ -1247,3 +1247,119 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-11-10 09:56:55.516 Codo[13622:296554] [CDVTimer][TotalPluginStartup] 152.355969ms
 2014-11-10 09:56:56.931 Codo[13622:296554] Resetting plugins due to page load.
 2014-11-10 09:56:57.169 Codo[13622:296554] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/FAFCAE25-67D2-4A00-A9AD-C504C3E3F609/Codo.app/www/index.html
+2014-12-17 10:39:57.095 Codo[27665:1383240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/DEA1D391-A7C2-40C1-90B5-DE06DF166852/Library/Cookies/Cookies.binarycookies
+2014-12-17 10:39:57.303 Codo[27665:1383240] Multi-tasking -> Device: YES, App: YES
+2014-12-17 10:39:57.339 Codo[27665:1383240] Unlimited access to network resources
+2014-12-17 10:39:57.345 Codo[27665:1383240] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 10:39:58.112 Codo[27665:1383240] [CDVTimer][file] 5.985975ms
+2014-12-17 10:39:58.292 Codo[27665:1383240] [CDVTimer][splashscreen] 179.634988ms
+2014-12-17 10:39:58.298 Codo[27665:1383240] [CDVTimer][statusbar] 5.318999ms
+2014-12-17 10:39:58.298 Codo[27665:1383240] [CDVTimer][TotalPluginStartup] 191.774011ms
+2014-12-17 10:39:58.491 Codo[27665:1383240] Resetting plugins due to page load.
+2014-12-17 10:39:58.854 Codo[27665:1383240] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/00D8B490-4FE2-4612-A4FB-469C530074C6/Codo.app/www/index.html
+2014-12-17 10:43:24.176 Codo[27665:1385644] Terminating since there is no system app.
+2014-12-17 10:43:41.247 Codo[27845:1386476] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/855FD081-C7D4-4156-8831-F217FA1F2736/Library/Cookies/Cookies.binarycookies
+2014-12-17 10:43:41.472 Codo[27845:1386476] Multi-tasking -> Device: YES, App: YES
+2014-12-17 10:43:41.480 Codo[27845:1386476] Unlimited access to network resources
+2014-12-17 10:43:41.485 Codo[27845:1386476] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 10:43:41.823 Codo[27845:1386476] [CDVTimer][file] 3.395021ms
+2014-12-17 10:43:41.846 Codo[27845:1386476] [CDVTimer][splashscreen] 22.573054ms
+2014-12-17 10:43:41.850 Codo[27845:1386476] [CDVTimer][statusbar] 3.405988ms
+2014-12-17 10:43:41.850 Codo[27845:1386476] [CDVTimer][TotalPluginStartup] 30.028999ms
+2014-12-17 10:43:42.085 Codo[27845:1386476] Resetting plugins due to page load.
+2014-12-17 10:43:42.218 Codo[27845:1386476] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/E2D5B6A0-1AE3-460E-8E02-0E3C0B23C29F/Codo.app/www/index.html
+2014-12-17 12:52:59.680 Codo[27845:1464876] Terminating since there is no system app.
+2014-12-17 12:59:34.392 Codo[29455:1469322] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/D3FD6C6A-48F9-4391-8422-3D40E5F055C0/Library/Cookies/Cookies.binarycookies
+2014-12-17 12:59:34.547 Codo[29455:1469322] Multi-tasking -> Device: YES, App: YES
+2014-12-17 12:59:34.569 Codo[29455:1469322] Unlimited access to network resources
+2014-12-17 12:59:34.575 Codo[29455:1469322] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 12:59:35.515 Codo[29455:1469322] [CDVTimer][file] 4.095972ms
+2014-12-17 12:59:35.584 Codo[29455:1469322] [CDVTimer][splashscreen] 68.875968ms
+2014-12-17 12:59:35.591 Codo[29455:1469322] [CDVTimer][statusbar] 7.413983ms
+2014-12-17 12:59:35.592 Codo[29455:1469322] [CDVTimer][TotalPluginStartup] 81.296027ms
+2014-12-17 12:59:35.740 Codo[29455:1469322] Resetting plugins due to page load.
+2014-12-17 12:59:35.886 Codo[29455:1469322] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/F5090A1A-7CDF-4C35-9777-B6C861487B27/Codo.app/www/index.html
+2014-12-17 13:00:28.407 Codo[29593:1470636] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/639CABD0-052B-4C93-8EF6-53420585524B/Library/Cookies/Cookies.binarycookies
+2014-12-17 13:00:28.512 Codo[29593:1470636] Multi-tasking -> Device: YES, App: YES
+2014-12-17 13:00:28.517 Codo[29593:1470636] Unlimited access to network resources
+2014-12-17 13:00:28.521 Codo[29593:1470636] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 13:00:28.849 Codo[29593:1470636] [CDVTimer][file] 6.178021ms
+2014-12-17 13:00:28.909 Codo[29593:1470636] [CDVTimer][splashscreen] 59.763968ms
+2014-12-17 13:00:28.915 Codo[29593:1470636] [CDVTimer][statusbar] 5.167961ms
+2014-12-17 13:00:28.915 Codo[29593:1470636] [CDVTimer][TotalPluginStartup] 71.672022ms
+2014-12-17 13:00:29.069 Codo[29593:1470636] Resetting plugins due to page load.
+2014-12-17 13:00:29.204 Codo[29593:1470636] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/BA653C13-DCA5-4277-B0F8-D79AD683590A/Codo.app/www/index.html
+2014-12-17 13:02:19.156 Codo[29718:1471901] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/ED57C195-42B5-4BCA-B12F-918BE3A03AEF/Library/Cookies/Cookies.binarycookies
+2014-12-17 13:02:19.319 Codo[29718:1471901] Multi-tasking -> Device: YES, App: YES
+2014-12-17 13:02:19.327 Codo[29718:1471901] Unlimited access to network resources
+2014-12-17 13:02:19.331 Codo[29718:1471901] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 13:02:19.690 Codo[29718:1471901] [CDVTimer][file] 2.476037ms
+2014-12-17 13:02:19.713 Codo[29718:1471901] [CDVTimer][splashscreen] 22.871971ms
+2014-12-17 13:02:19.717 Codo[29718:1471901] [CDVTimer][statusbar] 3.220022ms
+2014-12-17 13:02:19.717 Codo[29718:1471901] [CDVTimer][TotalPluginStartup] 29.079020ms
+2014-12-17 13:02:19.837 Codo[29718:1471901] Resetting plugins due to page load.
+2014-12-17 13:02:19.970 Codo[29718:1471901] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/3D2604C0-2C73-49A2-991D-07EA42F5A57F/Codo.app/www/index.html
+2014-12-17 13:04:41.362 Codo[29848:1473595] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/7D4551EB-718B-4843-B0A1-4BB58EB02CBC/Library/Cookies/Cookies.binarycookies
+2014-12-17 13:04:41.472 Codo[29848:1473595] Multi-tasking -> Device: YES, App: YES
+2014-12-17 13:04:41.477 Codo[29848:1473595] Unlimited access to network resources
+2014-12-17 13:04:41.480 Codo[29848:1473595] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 13:04:41.761 Codo[29848:1473595] [CDVTimer][file] 2.840996ms
+2014-12-17 13:04:41.782 Codo[29848:1473595] [CDVTimer][splashscreen] 21.067023ms
+2014-12-17 13:04:41.787 Codo[29848:1473595] [CDVTimer][statusbar] 5.107045ms
+2014-12-17 13:04:41.787 Codo[29848:1473595] [CDVTimer][TotalPluginStartup] 29.561996ms
+2014-12-17 13:04:41.910 Codo[29848:1473595] Resetting plugins due to page load.
+2014-12-17 13:04:42.037 Codo[29848:1473595] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/E16ADF58-3540-450D-A524-C3F2BDEF19CB/Codo.app/www/index.html
+2014-12-17 13:04:42.123 Codo[29848:1473595] THREAD WARNING: ['File'] took '25.661133' ms. Plugin should use a background thread.
+2014-12-17 13:05:07.547 Codo[29966:1474129] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Data/Application/A07493E5-69CB-4617-AE8B-D24EB69D6FC4/Library/Cookies/Cookies.binarycookies
+2014-12-17 13:05:07.683 Codo[29966:1474129] Multi-tasking -> Device: YES, App: YES
+2014-12-17 13:05:07.688 Codo[29966:1474129] Unlimited access to network resources
+2014-12-17 13:05:07.691 Codo[29966:1474129] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-12-17 13:05:07.994 Codo[29966:1474129] [CDVTimer][file] 4.577041ms
+2014-12-17 13:05:08.048 Codo[29966:1474129] [CDVTimer][splashscreen] 53.494990ms
+2014-12-17 13:05:08.051 Codo[29966:1474129] [CDVTimer][statusbar] 3.410041ms
+2014-12-17 13:05:08.051 Codo[29966:1474129] [CDVTimer][TotalPluginStartup] 61.975002ms
+2014-12-17 13:05:08.201 Codo[29966:1474129] Resetting plugins due to page load.
+2014-12-17 13:05:08.375 Codo[29966:1474129] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/508E24B3-6384-49B4-BAE3-F396658435D5/data/Containers/Bundle/Application/D8178F61-C6B2-4F96-A6EC-3A94462E9270/Codo.app/www/index.html
+2014-12-17 13:05:27.432 Codo[29966:1474180] Terminating since there is no system app.
