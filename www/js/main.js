@@ -22,6 +22,21 @@ App.prototype = {
             _this.myPhotoBrowser && _this.myPhotoBrowser.open(index); // 打开图片浏览器
         });
         
+        $('.J_camera').on('click', function() {
+            navigator.camera.getPicture(function(url) {
+                $('#J_camera_img').attr('src', url);
+            }, function(msg){
+                _this.app.alert(msg);
+            }, {quality: 50} );
+        });
+        $('.J_camera_clean').on('click', function() {
+            navigator.camera.cleanup(function() {
+                _this.app.alert('摄像机清理干净');
+            }, function(msg) {
+                _this.app.alert(msg);
+            });
+        });
+        
     },
     loadData: function() {
         var _this = this;

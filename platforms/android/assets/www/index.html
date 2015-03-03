@@ -66,19 +66,40 @@
                         <div class="page-content">
                             <!-- <p>Page content goes here</p> -->
                             <!-- Link to another page -->
-                            <a href="about.html">打开新页面</a>
+                            <p></p>
+                            <a class="button" href="about.html">打开新页面</a>
+                            <a href="#" class="button J_camera">打开照相机</a>
+                            <a href="#" class="button J_camera_clean">清理照相机</a>
+                            <p>
+                                <img src="" id="J_camera_img">
+                            </p>
                             <div class="" id="J_config"></div>
                             <div class="" id="J_content"></div>
                         </div>
                     </div>
                 </div>
                 <!-- Bottom Toolbar-->
-                <div class="toolbar">
+                <div class="toolbar tabbar tabbar-labels">
                     <div class="toolbar-inner">
                         <!-- Toolbar links -->
-                        <a href="#" class="link">精选</a>
-                        <a href="#" class="link">搜索</a>
-                        <a href="#" class="link">我的</a>
+                        <a href="#tab1" class="tab-link active">
+                            <i class="icon demo-icon-1"></i>
+                            <span class="tabbar-label">来往</span>
+                        </a>
+                        <a href="#tab2" class="tab-link">
+                            <i class="icon demo-icon-2">
+                                <span class="badge bg-red">5</span>
+                            </i>
+                            <span class="tabbar-label">附近</span>
+                        </a>
+                        <a href="#tab3" class="tab-link">
+                            <i class="icon demo-icon-3"></i>
+                            <span class="tabbar-label">探索</span>
+                        </a>
+                        <a href="#tab4" class="tab-link">
+                            <i class="icon demo-icon-4"></i>
+                            <span class="tabbar-label">我的</span>
+                        </a>
                     </div>
                 </div>
             </div>

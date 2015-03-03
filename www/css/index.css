@@ -32,6 +32,9 @@ body {
     padding:0px;
     width:100%;
 }
+img {
+    max-width: 100%;
+}
 
 .statusbar-overlay{
     background-color: #222;
