@@ -68,3 +68,20 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-03-03 15:59:16.780 Codo[3614:231840] [CDVTimer][TotalPluginStartup] 69.819033ms
 2015-03-03 15:59:16.882 Codo[3614:231840] Resetting plugins due to page load.
 2015-03-03 15:59:17.098 Codo[3614:231840] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/6E489A7A-847B-4C5D-9A88-636DCBBE42B7/data/Containers/Bundle/Application/3FA4A007-00D8-48A0-83DA-FD7C1837C0CE/Codo.app/www/index.html
+2015-03-03 16:47:30.467 Codo[4122:265468] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/6E489A7A-847B-4C5D-9A88-636DCBBE42B7/data/Containers/Data/Application/18CE6F7D-F83C-4748-A511-ACAC1EC1A6C2/Library/Cookies/Cookies.binarycookies
+2015-03-03 16:47:30.851 Codo[4122:265468] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-03 16:47:30.852 Codo[4122:265468] Multi-tasking -> Device: YES, App: YES
+2015-03-03 16:47:30.858 Codo[4122:265468] Unlimited access to network resources
+2015-03-03 16:47:30.869 Codo[4122:265468] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-03 16:47:31.773 Codo[4122:265468] [CDVTimer][splashscreen] 133.216023ms
+2015-03-03 16:47:31.779 Codo[4122:265468] [CDVTimer][statusbar] 5.227029ms
+2015-03-03 16:47:31.779 Codo[4122:265468] [CDVTimer][TotalPluginStartup] 138.768017ms
+2015-03-03 16:47:31.902 Codo[4122:265468] Resetting plugins due to page load.
+2015-03-03 16:47:32.425 Codo[4122:265468] Finished load of: file:///Users/xiaoshan/Library/Developer/CoreSimulator/Devices/6E489A7A-847B-4C5D-9A88-636DCBBE42B7/data/Containers/Bundle/Application/711F4035-F409-4AF5-B0B4-C2AD1703E909/Codo.app/www/index.html
