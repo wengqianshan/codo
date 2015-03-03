@@ -2,7 +2,7 @@
 <widget id="com.laiwang.codo" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Codo</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        一个cordova应用
     </description>
     <author email="wengqianshan@me.com" href="http://wenglou.com">
         Apache Cordova Team

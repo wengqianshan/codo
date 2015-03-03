@@ -21,7 +21,7 @@ App.prototype = {
             var index = $('#J_content img').index(this);
             _this.myPhotoBrowser && _this.myPhotoBrowser.open(index); // 打开图片浏览器
         });
-        
+
         $('.J_camera').on('click', function() {
             navigator.camera.getPicture(function(url) {
                 $('#J_camera_img').attr('src', url);
@@ -36,7 +36,7 @@ App.prototype = {
                 _this.app.alert(msg);
             });
         });
-        
+
     },
     loadData: function() {
         var _this = this;
@@ -46,7 +46,7 @@ App.prototype = {
             var html = template('J_tmpl_config', json.config);
             $('#J_config').html(html);
         });
-        
+
         $.ajax({
             url: 'http://api.laiwang.com/v2/internal/event/eventTopById.jsonp',
             dataType: 'jsonp',
@@ -77,8 +77,8 @@ document.addEventListener('deviceready', function() {
     app.init();
 }, false);
 document.addEventListener('pause', function() {
-    
+
 }, false);
 document.addEventListener('resume', function() {
-    app.loadData();
+    //app.loadData();
 }, false);
