@@ -23,13 +23,9 @@
         <meta name="format-detection" content="telephone=no" />
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
-        <!-- build:css(.) styles/vendor.css -->
-        <link rel="stylesheet" href="bower_components/framework7/dist/css/framework7.css">
-        <link rel="stylesheet" href="bower_components/framework7/dist/css/framework7.themes.css">
-        <!-- endbuild -->
-        <!-- build:css(.tmp) styles/main.css -->
-        <link rel="stylesheet" href="styles/main.css">
-        <!-- endbuild -->
+        <link rel="stylesheet" type="text/css" href="css/framework7.min.css">
+        <link rel="stylesheet" type="text/css" href="css/framework7.themes.min.css">
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
         <meta name="msapplication-tap-highlight" content="no" />
         <title>Codo</title>
     </head>
@@ -54,7 +50,7 @@
                         <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
                         <div class="center sliding">Codo</div>
                         <div class="right">
-                            <!--
+                            <!-- 
                         Right link contains only icon - additional "icon-only" class
                         Additional "open-panel" class tells app to open panel when we click on this link
                       -->
@@ -121,15 +117,13 @@
                 <p>{{$value.notice}}</p>
             {{/each}}
         </script>
-        <script src="cordova.js"></script>
-        <!-- build:js(.) scripts/vendor.js -->
-        <script src="bower_components/zepto/zepto.js"></script>
-        <script src="bower_components/framework7/dist/js/framework7.js"></script>
-        <!-- endbuild -->
-        <!-- build:js({app,.tmp}) scripts/main.js -->
-        <script src="scripts/template.js"></script>
-        <script src="scripts/main.js"></script>
-        <!-- endbuild -->
-
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/framework7.min.js"></script>
+        <script type="text/javascript" src="js/zepto.min.js"></script>
+        <script type="text/javascript" src="js/template.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript">
+            
+        </script>
     </body>
 </html>
