@@ -10,12 +10,19 @@ var App = function() {
 App.prototype = {
     init: function() {
         var _this = this;
-        StatusBar.styleBlackTranslucent()
-        navigator.splashscreen.hide();
+        //StatusBar.styleBlackTranslucent()
+        //navigator.splashscreen.hide();
 
         var mainView = this.app.addView('.view-main', {
             dynamicNavbar: true
         });
+        //可以加载url
+        /*mainView.router.load({
+            url: 'pages/pub/list.html',
+            pushState: false,
+            animatePages: false,
+            reload: true
+        });*/
         _this.myPhotoBrowser = null;
         this.loadData();
         $('#J_content').on('click', 'img', function() {
@@ -42,9 +49,9 @@ App.prototype = {
     },
     loadData: function() {
         var _this = this;
-        this.app.showPreloader();
+        //this.app.showPreloader();
         $.get('http://api.laiwang.com/v1/internal/webapp/version_config/get', function(json) {
-            _this.app.hidePreloader();
+            //_this.app.hidePreloader();
             var html = template('J_tmpl_config', json.config);
             $('#J_config').html(html);
         });
@@ -75,6 +82,7 @@ App.prototype = {
     }
 }
 var app = new App();
+app.init();
 document.addEventListener('deviceready', function() {
     app.init();
 }, false);
