@@ -73,7 +73,7 @@ module.exports = function (grunt) {
       options: {
         port: 9200,
         open: true,
-        livereload: 35729,
+        livereload: 36729,
         // Change this to '0.0.0.0' to access the server from outside
         hostname: '0.0.0.0'
       },
@@ -321,13 +321,19 @@ module.exports = function (grunt) {
           src: [
             '*.{ico,png,txt}',
             'images/{,*/}*.webp',
-            '{,*/}*.html',
+            '**/*.html',
             'styles/fonts/{,*/}*.*'
           ]
-        }/*, {
+        },/*, {
           src: 'node_modules/apache-server-configs/dist/.htaccess',
           dest: '<%= config.dist %>/.htaccess'
-        }*/]
+        }*/{
+          expand: true,
+          dot: true,
+          cwd: '.',
+          src: 'bower_components/fontawesome/fonts/*',
+          dest: '<%= config.dist %>'
+        }]
       },
       styles: {
         expand: true,

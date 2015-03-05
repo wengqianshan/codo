@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "framework7": "~1.0.2",
-    "zepto": "~1.1.6"
+    "zepto": "~1.1.6",
+    "fontawesome": "~4.3.0"
   }
 }
