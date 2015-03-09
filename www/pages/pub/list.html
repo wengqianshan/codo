@@ -3,18 +3,14 @@
     <div class="navbar-inner">
         <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
         <div class="left">
-            <a href="" class="back link">
-              <i class="icon icon-back"></i>
-              <span>返回</span>
-            </a>
+            <!-- <a href="" class="back link">
+                <i class="fa fa-chevron-left"></i>
+                <span>返回</span>
+            </a> -->
         </div>
         <div class="center sliding"></div>
         <div class="right">
-            <!--
-        Right link contains only icon - additional "icon-only" class
-        Additional "open-panel" class tells app to open panel when we click on this link
-      -->
-
+            <a href="pages/pub/setting.html" class="link icon-only"><i class="fa fa-user"></i></a>
         </div>
     </div>
 </div>
@@ -24,37 +20,51 @@
     <div data-page="list" class="page no-tabbar">
         <!-- Scrollable page content -->
         <div class="page-content">
-          <div class="list-block media-list">
-              <ul>
-                <li>
-                  <a href="#" class="item-link item-content">
-                    <div class="item-media"><img src="images/300-0.jpg" width="80"></div>
-                    <div class="item-inner">
-                      <div class="item-title-row">
-                        <div class="item-title">上海 <i class="fa fa-long-arrow-right"></i> 西安</div>
-                        <div class="item-after">载货</div>
-                      </div>
-                      <div class="item-subtitle">王明亮</div>
-                      <div class="item-text">当前位置: 宝山</div>
-                    </div>
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="item-link item-content">
-                    <div class="item-media"><img src="images/300-1.jpg" width="80"></div>
-                    <div class="item-inner">
-                      <div class="item-title-row">
-                        <div class="item-title">上海 <i class="fa fa-long-arrow-right"></i> 西安</div>
-                        <div class="item-after">空车</div>
-                      </div>
-                      <div class="item-subtitle">张军</div>
-                      <div class="item-text">当前位置: 济南</div>
-                    </div>
-                  </a>
-                </li>
-              </ul>
+            <div class="content-block-title">我的车队</div>
+            <div class="list-block media-list">
+                <ul>
+                    <li>
+                        <a href="pages/pub/truck.html" class="item-link item-content">
+                            <div class="item-media"><img src="images/300-0.jpg" width="80">
+                            </div>
+                            <div class="item-inner">
+                                <div class="item-title-row">
+                                    <div class="item-title">鲁C6820M</div>
+                                    <div class="item-after">载货</div>
+                                </div>
+                                <div class="item-subtitle">上海 <i class="fa fa-long-arrow-right"></i> 西安</div>
+                                <div class="item-text">当前位置: 宝山</div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="pages/pub/truck.html" class="item-link item-content">
+                            <div class="item-media"><img src="images/300-1.jpg" width="80">
+                            </div>
+                            <div class="item-inner">
+                                <div class="item-title-row">
+                                    <div class="item-title">鲁AE2178</div>
+                                    <div class="item-after">空车</div>
+                                </div>
+                                <div class="item-subtitle"></div>
+                                <div class="item-text">当前位置: 济南</div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="list-block">
+                <ul>
+                    <li>
+                      <a href="pages/pub/truck.html" class="item-link item-content">
+                        <div class="item-inner">
+                          <div class="item-title">新增车队</div>
+                          <div class="item-after"></div>
+                        </div>
+                      </a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
 </div>
-
