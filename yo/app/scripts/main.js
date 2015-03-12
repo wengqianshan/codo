@@ -1,9 +1,7 @@
-
-
 var App = function() {
     this.myPhotoBrowser = null;
     this.app = new Framework7({
-      pushState: true
+        pushState: true
     });
 };
 
@@ -16,13 +14,30 @@ App.prototype = {
         var mainView = this.app.addView('.view-main', {
             dynamicNavbar: true
         });
-        //可以加载url
-        /*mainView.router.load({
-            url: 'pages/pub/list.html',
-            pushState: false,
-            animatePages: false,
-            reload: true
-        });*/
+        var $$ = Dom7;
+        $$(document).on('pageInit', function(e) {
+                // Page Data contains all required information about loaded and initialized page 
+                var page = e.detail.page;
+                var name = page.name
+                switch (name) {
+                    case 'truck-update':
+                        $$('.right .link', page.navbarInnerContainer).on('click', function() {
+                            _this.app.alert('提交成功', function(){
+                                mainView.router.back();
+                            });
+                            
+                        });
+                        break;
+                }
+                console.log(page)
+            })
+            //可以加载url
+            /*mainView.router.load({
+                url: 'pages/pub/list.html',
+                pushState: false,
+                animatePages: false,
+                reload: true
+            });*/
         _this.myPhotoBrowser = null;
         this.loadData();
         $('#J_content').on('click', 'img', function() {
@@ -34,9 +49,11 @@ App.prototype = {
         $('.J_camera').on('click', function() {
             navigator.camera.getPicture(function(url) {
                 $('#J_camera_img').attr('src', url);
-            }, function(msg){
+            }, function(msg) {
                 _this.app.alert(msg);
-            }, {quality: 50} );
+            }, {
+                quality: 50
+            });
         });
         $('.J_camera_clean').on('click', function() {
             navigator.camera.cleanup(function() {
@@ -60,7 +77,9 @@ App.prototype = {
             url: 'http://api.laiwang.com/v2/internal/event/eventTopById.jsonp',
             dataType: 'jsonp',
             success: function(data) {
-                var html = template('J_tmpl_list', {list: data});
+                var html = template('J_tmpl_list', {
+                    list: data
+                });
                 $('#J_content').html(html);
 
                 //
