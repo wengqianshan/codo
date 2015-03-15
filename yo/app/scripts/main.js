@@ -79,7 +79,7 @@ App.prototype = {
                 },
                 pushState: false,
                 animatePages: false,
-                //reload: true,
+                reload: true,
                 //force: true
             });
         }, 2000)
