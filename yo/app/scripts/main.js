@@ -21,6 +21,8 @@ App.prototype = {
             // Page Data contains all required information about loaded and initialized page 
             var page = e.detail.page;
             var name = page.name;
+            var $$container = page.container;
+            var $$navbarContainer = page.navbarInnerContainer;
             console.log('pageInit', page)
             switch (name) {
                 case 'truck-update':
@@ -36,6 +38,14 @@ App.prototype = {
                         console.log('lalala')
                         setTimeout(function() {
                             _this.app.pullToRefreshDone();
+                        }, 2000)
+                    });
+                    break;
+                case 'setting':
+                    $$('.J_version', $$container).on('click', function() {
+                        _this.app.showPreloader('检查新版本...');
+                        setTimeout(function() {
+                            _this.app.hidePreloader();
                         }, 2000)
                     });
                     break;
@@ -68,9 +78,9 @@ App.prototype = {
                     id: 123
                 },
                 pushState: false,
-                //animatePages: false,
-                reload: true,
-                force: true
+                animatePages: false,
+                //reload: true,
+                //force: true
             });
         }, 2000)
         
