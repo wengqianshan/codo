@@ -1,8 +1,14 @@
 var App = function() {
     this.myPhotoBrowser = null;
     this.app = new Framework7({
-        pushState: true
+        pushState: true,
+        swipeBackPage: false
     });
+    this.mainView = this.app.addView('.view-main', {
+        dynamicNavbar: true
+    });
+
+    this.logined = false;
 };
 
 App.prototype = {
@@ -10,97 +16,72 @@ App.prototype = {
         var _this = this;
         //StatusBar.styleBlackTranslucent()
         //navigator.splashscreen.hide();
-
-        var mainView = this.app.addView('.view-main', {
-            dynamicNavbar: true
-        });
         var $$ = Dom7;
         $$(document).on('pageInit', function(e) {
-                // Page Data contains all required information about loaded and initialized page 
-                var page = e.detail.page;
-                var name = page.name
-                switch (name) {
-                    case 'truck-update':
-                        $$('.right .link', page.navbarInnerContainer).on('click', function() {
-                            _this.app.alert('提交成功', function(){
-                                mainView.router.back();
-                            });
-                            
+            // Page Data contains all required information about loaded and initialized page 
+            var page = e.detail.page;
+            var name = page.name;
+            console.log('pageInit', page)
+            switch (name) {
+                case 'truck-update':
+                    $$('.right .link', page.navbarInnerContainer).on('click', function() {
+                        _this.app.alert('提交成功', '', function(){
+                            _this.mainView.router.back();
                         });
-                        break;
-                }
-                console.log(page)
-            })
-            //可以加载url
-            /*mainView.router.load({
-                url: 'pages/pub/list.html',
-                pushState: false,
-                animatePages: false,
-                reload: true
-            });*/
-        _this.myPhotoBrowser = null;
-        this.loadData();
-        $('#J_content').on('click', 'img', function() {
-            var $img = $(this);
-            var index = $('#J_content img').index(this);
-            _this.myPhotoBrowser && _this.myPhotoBrowser.open(index); // 打开图片浏览器
-        });
-
-        $('.J_camera').on('click', function() {
-            navigator.camera.getPicture(function(url) {
-                $('#J_camera_img').attr('src', url);
-            }, function(msg) {
-                _this.app.alert(msg);
-            }, {
-                quality: 50
-            });
-        });
-        $('.J_camera_clean').on('click', function() {
-            navigator.camera.cleanup(function() {
-                _this.app.alert('摄像机清理干净');
-            }, function(msg) {
-                _this.app.alert(msg);
-            });
-        });
-
-    },
-    loadData: function() {
-        var _this = this;
-        //this.app.showPreloader();
-        $.get('http://api.laiwang.com/v1/internal/webapp/version_config/get', function(json) {
-            //_this.app.hidePreloader();
-            var html = template('J_tmpl_config', json.config);
-            $('#J_config').html(html);
-        });
-
-        $.ajax({
-            url: 'http://api.laiwang.com/v2/internal/event/eventTopById.jsonp',
-            dataType: 'jsonp',
-            success: function(data) {
-                var html = template('J_tmpl_list', {
-                    list: data
-                });
-                $('#J_content').html(html);
-
-                //
-                var result = [];
-                $.each($('img'), function(i, item) {
-                    result.push(item.src);
-                });
-                _this.myPhotoBrowser = _this.app.photoBrowser({
-                    zoom: 400,
-                    photos: result,
-                    type: 'popup',
-                    theme: 'dark'
-                });
-            },
-            error: function() {
-
+                        
+                    });
+                    break;
+                case 'list':
+                    $$('.pull-to-refresh-content', page.container).on('refresh', function() {
+                        console.log('lalala')
+                        setTimeout(function() {
+                            _this.app.pullToRefreshDone();
+                        }, 2000)
+                    });
+                    break;
             }
         });
+        if (!this.logined) {
+            this.app.loginScreen();
+            $('.login-screen').on('opened', function(e) {
+                var $modal = $(e.target);
+                $('.button').on('click', $modal, function(e) {
+                    e.preventDefault();
+                    _this.app.closeModal($modal);
+                    _this.loadList();
+                })
+            });
+        } else {
+            //可以加载url
+            this.loadList();
+        }
+    },
+    loadList: function() {
+        var _this = this;
+        this.app.showPreloader('加载中...');
+        setTimeout(function() {
+            _this.app.hidePreloader();
+            _this.mainView.router.load({
+                url: 'pages/pub/list.html',
+                query: {
+                    refresh: true,
+                    id: 123
+                },
+                pushState: false,
+                //animatePages: false,
+                reload: true,
+                force: true
+            });
+        }, 2000)
+        
+    },
+    //重置客户端
+    reset: function() {
+
     }
 }
 var app = new App();
+//app.logined = true;
 app.init();
 document.addEventListener('deviceready', function() {
     app.init();

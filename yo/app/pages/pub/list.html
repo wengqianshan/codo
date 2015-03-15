@@ -1,7 +1,6 @@
 <!-- Top Navbar-->
 <div class="navbar">
     <div class="navbar-inner">
-        <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
         <div class="left">
             <a href="pages/pub/truck-add.html" class="link">
                 <span class="">添加</span>
@@ -14,11 +13,16 @@
     </div>
 </div>
 <!-- Pages container, because we use fixed-through navbar and toolbar, it has additional appropriate classes-->
-<div class="pages navbar-through toolbar-through">
+<div class="pages">
     <!-- Page, "data-page" contains page name -->
-    <div data-page="list" class="page no-tabbar">
+    <div data-page="list" class="page">
+
         <!-- Scrollable page content -->
-        <div class="page-content">
+        <div class="page-content pull-to-refresh-content">
+            <div class="pull-to-refresh-layer">
+              <div class="preloader"></div>
+              <div class="pull-to-refresh-arrow"></div>
+            </div>
             <!-- <div class="content-block-title">我的车队</div> -->
             <div class="list-block media-list">
                 <ul>
