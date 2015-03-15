@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon" href="images/icon.png" />
+    <link rel="stylesheet" href="styles/vendor.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <title>Codo</title>
+</head>
+
+<body>
+    <!-- Status bar overlay for full screen mode (PhoneGap) -->
+    <div class="statusbar-overlay"></div>
+
+    <!-- Views -->
+    <div class="views">
+        <!-- Your main view, should have "view-main" class -->
+        <div class="view view-main">
+            <!-- Top Navbar-->
+            <div class="navbar">
+                <div class="navbar-inner">
+                    <!-- We need cool sliding animation on title element, so we have additional "sliding" class -->
+                    <div class="center sliding">Codo</div>
+                    <div class="right">
+                        
+                    </div>
+                </div>
+            </div>
+            <!-- Pages container, because we use fixed-through navbar and toolbar, it has additional appropriate classes-->
+            <div class="pages navbar-through toolbar-through">
+                <!-- Page, "data-page" contains page name -->
+                <div data-page="index" class="page">
+                    <!-- Scrollable page content -->
+                    <div class="page-content">
+                        <!-- <p>Page content goes here</p> -->
+                        <!-- Link to another page -->
+                        <p>
+                            <i class="fa fa-long-arrow-right"></i>
+                        </p>
+                        <p>
+                            <input type="file">
+                        </p>
+                        <a class="button" href="about.html">打开新页面</a>
+                        <a href="#" class="button J_camera">打开照相机</a>
+                        <a href="#" class="button J_camera_clean">清理照相机</a>
+                        <p>
+                            <img src="" id="J_camera_img">
+                        </p>
+                        <p><a href="pages/pub/login.html" class="button">登录</a>
+                        </p>
+                        <p><a href="pages/pub/register.html" class="button">注册</a>
+                        </p>
+                        <p><a href="pages/pub/list.html" class="button">列表</a>
+                        </p>
+                        <div class="" id="J_config"></div>
+                        <div class="" id="J_content"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- Bottom Toolbar-->
+            <!-- <div class="toolbar tabbar tabbar-labels">
+                <div class="toolbar-inner">
+                    <a href="#tab1" class="tab-link active">
+                        <i class="icon demo-icon-1"></i>
+                        <span class="tabbar-label">来往</span>
+                    </a>
+                    <a href="#tab2" class="tab-link">
+                        <i class="icon demo-icon-2">
+                                <span class="badge bg-red">5</span>
+                            </i>
+                        <span class="tabbar-label">附近</span>
+                    </a>
+                    <a href="#tab3" class="tab-link">
+                        <i class="icon demo-icon-3"></i>
+                        <span class="tabbar-label">探索</span>
+                    </a>
+                    <a href="#tab4" class="tab-link">
+                        <i class="icon demo-icon-4"></i>
+                        <span class="tabbar-label">我的</span>
+                    </a>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+    <script type="text/html" id="J_tmpl_config">
+        <h3>版本号：{{version}}</h3> {{each webapps}}
+        <p>{{$value.name}}：{{$value.version}}</p>
+        {{/each}}
+    </script>
+    <script type="text/html" id="J_tmpl_list">
+        {{each list}}
+        <img src="{{$value.cover_pic}}" />
+        <h3>{{$value.title}}</h3>
+        <p>{{$value.notice}}</p>
+        {{/each}}
+    </script>
+    <script src="cordova.js"></script>
+    <script src="scripts/vendor.js"></script>
+    <script src="scripts/main.js"></script>
+
+</body>
+
+</html>
