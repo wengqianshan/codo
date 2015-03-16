@@ -1,7 +1,7 @@
 var App = function() {
     this.myPhotoBrowser = null;
     this.app = new Framework7({
-        pushState: true,
+        //pushState: true,
         swipeBackPage: false,
         fastClicks: false
     });
@@ -9,7 +9,7 @@ var App = function() {
         dynamicNavbar: true
     });
 
-    this.logined = false;
+    this.logined = localStorage.getItem('logined');
 };
 
 App.prototype = {
@@ -51,12 +51,13 @@ App.prototype = {
                     break;
             }
         });
-        if (!this.logined) {
+        if (this.logined !== 'true') {
             this.app.loginScreen();
             $('.login-screen').on('opened', function(e) {
                 var $modal = $(e.target);
                 $('.button').on('click', $modal, function(e) {
                     e.preventDefault();
+                    localStorage.setItem('logined', 'true');
                     _this.app.closeModal($modal);
                     _this.loadList();
                 })
@@ -77,7 +78,7 @@ App.prototype = {
                     refresh: true,
                     id: 123
                 },
-                pushState: false,
+                //pushState: false,
                 animatePages: false,
                 reload: true,
                 //force: true
