@@ -2,7 +2,8 @@ var App = function() {
     this.myPhotoBrowser = null;
     this.app = new Framework7({
         pushState: true,
-        swipeBackPage: false
+        swipeBackPage: false,
+        fastClicks: false
     });
     this.mainView = this.app.addView('.view-main', {
         dynamicNavbar: true
@@ -18,23 +19,22 @@ App.prototype = {
         //navigator.splashscreen.hide();
         var $$ = Dom7;
         $$(document).on('pageInit', function(e) {
-            // Page Data contains all required information about loaded and initialized page 
+            // Page Data contains all required information about loaded and initialized page
             var page = e.detail.page;
             var name = page.name;
-            var $$container = page.container;
-            var $$navbarContainer = page.navbarInnerContainer;
+            var $$container = $$(page.container);
+            var $$navbarContainer = $$(page.navbarInnerContainer);
             console.log('pageInit', page)
             switch (name) {
                 case 'truck-update':
-                    $$('.right .link', page.navbarInnerContainer).on('click', function() {
-                        _this.app.alert('提交成功', '', function(){
+                    $$navbarContainer.on('click', '.right .link', function() {
+                        _this.app.alert('提交成功', '', function() {
                             _this.mainView.router.back();
                         });
-                        
                     });
                     break;
                 case 'list':
-                    $$('.pull-to-refresh-content', page.container).on('refresh', function() {
+                    $$container.on('refresh', '.pull-to-refresh-content', function() {
                         console.log('lalala')
                         setTimeout(function() {
                             _this.app.pullToRefreshDone();
@@ -42,7 +42,7 @@ App.prototype = {
                     });
                     break;
                 case 'setting':
-                    $$('.J_version', $$container).on('click', function() {
+                    $$container.on('click', '.J_version', function() {
                         _this.app.showPreloader('检查新版本...');
                         setTimeout(function() {
                             _this.app.hidePreloader();
@@ -83,7 +83,7 @@ App.prototype = {
                 //force: true
             });
         }, 2000)
-        
+
     },
     //重置客户端
     reset: function() {
@@ -93,6 +93,9 @@ App.prototype = {
 var app = new App();
 //app.logined = true;
 app.init();
+document.addEventListener('DOMContentLoaded', function() {
+    FastClick.attach(document.body);
+}, false);
 document.addEventListener('deviceready', function() {
     app.init();
 }, false);
