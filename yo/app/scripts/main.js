@@ -31,7 +31,6 @@ App.prototype = {
                         e.preventDefault();
                         localStorage.setItem('logined', 'true');
                         _this.loadList();
-                        //_this.mainView.router.reloadPage('pages/pub/list.html');
                     });
                     break;
                 case 'list':
@@ -91,8 +90,7 @@ App.prototype = {
         this.app.showPreloader('加载中...');
         setTimeout(function() {
             _this.app.hidePreloader();
-            _this.mainView.router.reloadPage('pages/pub/list.html');
-            /*_this.mainView.router.load({
+            _this.mainView.router.load({
                 url: 'pages/pub/list.html',
                 query: {
                     refresh: true,
@@ -102,7 +100,7 @@ App.prototype = {
                 animatePages: false,
                 reload: true,
                 //force: true
-            });*/
+            });
         }, 2000)
 
     },
