@@ -26,11 +26,12 @@ App.prototype = {
             var $$navbarContainer = $$(page.navbarInnerContainer);
             console.log('pageInit', page)
             switch (name) {
-                case 'truck-update':
-                    $$navbarContainer.on('click', '.right .link', function() {
-                        _this.app.alert('提交成功', '', function() {
-                            _this.mainView.router.back();
-                        });
+                case 'login':
+                    $$container.on('click', '.button', function(e) {
+                        e.preventDefault();
+                        localStorage.setItem('logined', 'true');
+                        _this.loadList();
+                        //_this.mainView.router.reloadPage('pages/pub/list.html');
                     });
                     break;
                 case 'list':
@@ -49,11 +50,29 @@ App.prototype = {
                         }, 2000)
                     });
                     break;
+                case 'truck-update':
+                    $$navbarContainer.on('click', '.right .link', function() {
+                        _this.app.alert('提交成功', '', function() {
+                            _this.mainView.router.back();
+                        });
+                    });
+                    break;
             }
         });
         if (this.logined !== 'true') {
-            this.app.loginScreen();
-            $('.login-screen').on('opened', function(e) {
+            //this.app.loginScreen();
+            _this.mainView.router.load({
+                url: 'pages/pub/login.html',
+                query: {
+                    refresh: true,
+                    id: 123
+                },
+                //pushState: false,
+                animatePages: false,
+                reload: true,
+                //force: true
+            });
+            /*$('.login-screen').on('opened', function(e) {
                 var $modal = $(e.target);
                 $('.button').on('click', $modal, function(e) {
                     e.preventDefault();
@@ -61,7 +80,7 @@ App.prototype = {
                     _this.app.closeModal($modal);
                     _this.loadList();
                 })
-            });
+            });*/
         } else {
             //可以加载url
             this.loadList();
@@ -72,7 +91,8 @@ App.prototype = {
         this.app.showPreloader('加载中...');
         setTimeout(function() {
             _this.app.hidePreloader();
-            _this.mainView.router.load({
+            _this.mainView.router.reloadPage('pages/pub/list.html');
+            /*_this.mainView.router.load({
                 url: 'pages/pub/list.html',
                 query: {
                     refresh: true,
@@ -82,7 +102,7 @@ App.prototype = {
                 animatePages: false,
                 reload: true,
                 //force: true
-            });
+            });*/
         }, 2000)
 
     },
