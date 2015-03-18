@@ -56,6 +56,13 @@ App.prototype = {
                         });
                     });
                     break;
+                case 'truck-add':
+                    $$navbarContainer.on('click', '.right .link', function() {
+                        _this.app.alert('提交成功', '', function() {
+                            _this.mainView.router.back();
+                        });
+                    });
+                    break;
             }
         });
         if (this.logined !== 'true') {
@@ -116,7 +123,17 @@ document.addEventListener('DOMContentLoaded', function() {
     FastClick.attach(document.body);
 }, false);
 document.addEventListener('deviceready', function() {
-    app.init();
+    //app.init();
+}, false);
+document.addEventListener('backbutton', function() {
+            if (app.mainView.history.length > 1) {
+                app.mainView.router.back();
+            } else {
+                app.app.confirm('退出应用程序?', '', function() {
+                    navigator.app.exitApp();
+                }, function() {})
+                return;
+            }
 }, false);
 document.addEventListener('pause', function() {
 
