@@ -63,6 +63,25 @@ App.prototype = {
                         });
                     });
                     break;
+                case 'account':
+                    $$container.on('click', '.button', function() {
+                        /*_this.app.alert('提交成功', '', function() {
+                            _this.mainView.router.back();
+                        });*/
+                        localStorage.setItem('logined', 'false');
+                        _this.mainView.router.load({
+                            url: 'pages/pub/login.html',
+                            query: {
+                                refresh: true,
+                                id: 123
+                            },
+                            //pushState: false,
+                            animatePages: false,
+                            reload: true,
+                            //force: true
+                        });
+                    });
+                    break;
             }
         });
         if (this.logined !== 'true') {
@@ -126,7 +145,8 @@ document.addEventListener('deviceready', function() {
     //app.init();
 }, false);
 document.addEventListener('backbutton', function() {
-            if (app.mainView.history.length > 1) {
+            var name = app.mainView.activePage.name;
+            if (app.mainView.history.length > 1 && name !== 'list' && name !== 'login') {
                 app.mainView.router.back();
             } else {
                 app.app.confirm('退出应用程序?', '', function() {
