@@ -81,6 +81,13 @@ App.prototype = {
                             //force: true
                         });
                     });
+                    $$container.on('click', '.J_birthday', function() {
+                        var calendar = _this.app.calendar({
+                            input: $$container.find('.J_birthday input')
+                        });
+                        console.log(calendar)
+                        calendar.open();
+                    });
                     break;
             }
         });
