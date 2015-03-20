@@ -82,9 +82,15 @@ App.prototype = {
                         });
                     });
                     $$container.on('click', '.J_birthday', function() {
+                        var $this = $$(this);
+                        if ($this.data('calendar')) {
+                            $this.data('calendar').open();
+                            return;
+                        }
                         var calendar = _this.app.calendar({
                             input: $$container.find('.J_birthday input')
                         });
+                        $this.data('calendar', calendar);
                         console.log(calendar)
                         calendar.open();
                     });
@@ -152,6 +158,7 @@ document.addEventListener('deviceready', function() {
     //app.init();
 }, false);
 document.addEventListener('backbutton', function() {
+            app.app.closeModal();
             var name = app.mainView.activePage.name;
             if (app.mainView.history.length > 1 && name !== 'list' && name !== 'login') {
                 app.mainView.router.back();
