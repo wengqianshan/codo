@@ -88,7 +88,12 @@ App.prototype = {
                             return;
                         }
                         var calendar = _this.app.calendar({
-                            input: $$container.find('.J_birthday input')
+                            input: $$container.find('.J_birthday input'),
+                            monthNames: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
+                            dayNames: ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
+                            dayNamesShort: ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
+                            closeOnSelect: true
+
                         });
                         $this.data('calendar', calendar);
                         console.log(calendar)
